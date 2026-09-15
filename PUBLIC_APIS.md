@@ -10,7 +10,7 @@
 
 ---
 
-## 📦 Catálogo de APIs Activas en Producción (41 Módulos)
+## 📦 Catálogo de APIs Activas en Producción (42 Módulos)
 
 | ID | Nombre de la API | Servicio / Descripción | Modelo de Cobro | Endpoint Público |
 |---|---|---|---|---|
@@ -55,6 +55,7 @@
 | `39` | **CrossChainBridgeRateAPI** | Comparador de tarifas, comisiones y tiempos de transferencia entre puentes cross-chain EVM | $0.30 USDC por consulta de puente | [`/api/services/39`](https://utilization-express-okay-remarks.trycloudflare.com/api/services/39) |
 | `40` | **ZkProofVerifierAPI** | Micro-SaaS de verificación de pruebas de cero conocimiento ZK-SNARKs | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/40`](https://utilization-express-okay-remarks.trycloudflare.com/api/services/40) |
 | `41` | **CryptoSentimentAI** | Análisis cuantitativo de sentimiento en tiempo real para activos cripto | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/41`](https://parish-upload-vertex-mac.trycloudflare.com/api/services/41) |
+| `42` | **ArweaveDataStoreIndexer** | Indexación y búsqueda de datos permanentes almacenados en Arweave | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/42`](https://parish-upload-vertex-mac.trycloudflare.com/api/services/42) |
 
 ## 🛠️ Guía de Integración y Ejemplos (cURL & Python SDK)
 
@@ -1073,6 +1074,31 @@ curl -X GET "https://parish-upload-vertex-mac.trycloudflare.com/api/services/41"
 import requests
 
 API_URL = "https://parish-upload-vertex-mac.trycloudflare.com/api/services/41"
+
+# 1ª Consulta de muestra (Gratis)
+res = requests.get(API_URL).json()
+print("Respuesta Muestra:", res)
+
+# Para consultas ilimitadas, envía pago USDC a 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA e incluye tx_hash:
+# res_pago = requests.get(API_URL, params={"tx_hash": "0xTU_TRANSACCION_HASH"}).json()
+```
+
+---
+### 🚀 API #42: ArweaveDataStoreIndexer
+* **Descripción:** Indexación y búsqueda de datos permanentes almacenados en Arweave
+* **Endpoint:** `https://parish-upload-vertex-mac.trycloudflare.com/api/services/42`
+* **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
+
+#### Ejemplo cURL (Consulta Muestra Gratis):
+```bash
+curl -X GET "https://parish-upload-vertex-mac.trycloudflare.com/api/services/42"
+```
+
+#### Ejemplo Python SDK Client:
+```python
+import requests
+
+API_URL = "https://parish-upload-vertex-mac.trycloudflare.com/api/services/42"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()

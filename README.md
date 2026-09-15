@@ -8,7 +8,7 @@ Directorio oficial en tiempo real de Micro-servicios Web3 y APIs Cripto desplega
 
 ---
 
-## 📋 Catálogo de APIs Activas (26 Servicios Operativos)
+## 📋 Catálogo de APIs Activas (24 Servicios Operativos)
 
 | ID | Proyecto | Servicio | Modelo de Cobro | Endpoint Directo |
 |:---|:---|:---|:---|:---|
@@ -36,8 +36,6 @@ Directorio oficial en tiempo real de Micro-servicios Web3 y APIs Cripto desplega
 | `22` | **FarcasterFramePaymentGateway** | Pasarela de cobro micro-usdc integrada en Farcaster Frames | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/22`](https://api.rdevapp.com/api/services/22) |
 | `23` | **UniswapV3LiquidityRangeWatcher** | Alertas de desincronización de liquidez en rango para Uniswap V3 | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/23`](https://api.rdevapp.com/api/services/23) |
 | `24` | **ChainlinkAutomationMonitorAPI** | Monitoreo en tiempo real de ejecuciones Upkeeps en Chainlink Automation | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/24`](https://api.rdevapp.com/api/services/24) |
-| `25` | **IneditoWeb3Module_129** | Servicio Web3 inédito especializado #129 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/25`](https://api.rdevapp.com/api/services/25) |
-| `26` | **IneditoWeb3Module_768** | Servicio Web3 inédito especializado #768 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/26`](https://api.rdevapp.com/api/services/26) |
 
 ## 🛠️ Guía de Integración y Ejemplos (cURL & Python SDK)
 
@@ -631,56 +629,6 @@ curl -X GET "https://api.rdevapp.com/api/services/24"
 import requests
 
 API_URL = "https://api.rdevapp.com/api/services/24"
-
-# 1ª Consulta de muestra (Gratis)
-res = requests.get(API_URL).json()
-print("Respuesta Muestra:", res)
-
-# Para consultas ilimitadas, envía pago USDC a 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA e incluye tx_hash:
-# res_pago = requests.get(API_URL, params={"tx_hash": "0xTU_TRANSACCION_HASH"}).json()
-```
-
----
-### 🚀 API #25: IneditoWeb3Module_129
-* **Descripción:** Servicio Web3 inédito especializado #129
-* **Endpoint:** `https://api.rdevapp.com/api/services/25`
-* **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
-
-#### Ejemplo cURL (Consulta Muestra Gratis):
-```bash
-curl -X GET "https://api.rdevapp.com/api/services/25"
-```
-
-#### Ejemplo Python SDK Client:
-```python
-import requests
-
-API_URL = "https://api.rdevapp.com/api/services/25"
-
-# 1ª Consulta de muestra (Gratis)
-res = requests.get(API_URL).json()
-print("Respuesta Muestra:", res)
-
-# Para consultas ilimitadas, envía pago USDC a 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA e incluye tx_hash:
-# res_pago = requests.get(API_URL, params={"tx_hash": "0xTU_TRANSACCION_HASH"}).json()
-```
-
----
-### 🚀 API #26: IneditoWeb3Module_768
-* **Descripción:** Servicio Web3 inédito especializado #768
-* **Endpoint:** `https://api.rdevapp.com/api/services/26`
-* **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
-
-#### Ejemplo cURL (Consulta Muestra Gratis):
-```bash
-curl -X GET "https://api.rdevapp.com/api/services/26"
-```
-
-#### Ejemplo Python SDK Client:
-```python
-import requests
-
-API_URL = "https://api.rdevapp.com/api/services/26"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()

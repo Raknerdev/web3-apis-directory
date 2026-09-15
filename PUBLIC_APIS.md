@@ -8,7 +8,7 @@ Directorio oficial en tiempo real de Micro-servicios Web3 y APIs Cripto desplega
 
 ---
 
-## 📋 Catálogo de APIs Activas (24 Servicios Operativos)
+## 📋 Catálogo de APIs Activas (25 Servicios Operativos)
 
 | ID | Proyecto | Servicio | Modelo de Cobro | Endpoint Directo |
 |:---|:---|:---|:---|:---|
@@ -36,6 +36,7 @@ Directorio oficial en tiempo real de Micro-servicios Web3 y APIs Cripto desplega
 | `22` | **Web3SpecializedService_5533** | Servicio Web3 especializado autónomo #5533 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/22`](https://api.rdevapp.com/api/services/22) |
 | `23` | **Web3SpecializedService_5152** | Servicio Web3 especializado autónomo #5152 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/23`](https://api.rdevapp.com/api/services/23) |
 | `24` | **Web3SpecializedService_5317** | Servicio Web3 especializado autónomo #5317 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/24`](https://api.rdevapp.com/api/services/24) |
+| `25` | **Web3SpecializedService_5239** | Servicio Web3 especializado autónomo #5239 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/25`](https://api.rdevapp.com/api/services/25) |
 
 ## 🛠️ Guía de Integración y Ejemplos (cURL & Python SDK)
 
@@ -629,6 +630,31 @@ curl -X GET "https://api.rdevapp.com/api/services/24"
 import requests
 
 API_URL = "https://api.rdevapp.com/api/services/24"
+
+# 1ª Consulta de muestra (Gratis)
+res = requests.get(API_URL).json()
+print("Respuesta Muestra:", res)
+
+# Para consultas ilimitadas, envía pago USDC a 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA e incluye tx_hash:
+# res_pago = requests.get(API_URL, params={"tx_hash": "0xTU_TRANSACCION_HASH"}).json()
+```
+
+---
+### 🚀 API #25: Web3SpecializedService_5239
+* **Descripción:** Servicio Web3 especializado autónomo #5239
+* **Endpoint:** `https://api.rdevapp.com/api/services/25`
+* **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
+
+#### Ejemplo cURL (Consulta Muestra Gratis):
+```bash
+curl -X GET "https://api.rdevapp.com/api/services/25"
+```
+
+#### Ejemplo Python SDK Client:
+```python
+import requests
+
+API_URL = "https://api.rdevapp.com/api/services/25"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()

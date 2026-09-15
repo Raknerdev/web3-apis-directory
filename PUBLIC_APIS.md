@@ -10,7 +10,7 @@
 
 ---
 
-## 📦 Catálogo de APIs Activas en Producción (49 Módulos)
+## 📦 Catálogo de APIs Activas en Producción (50 Módulos)
 
 | ID | Nombre de la API | Servicio / Descripción | Modelo de Cobro | Endpoint Público |
 |---|---|---|---|---|
@@ -63,6 +63,7 @@
 | `47` | **Web3QuantumAnalytics_47** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #47 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/47`](https://beautifully-ideas-apollo-schedule.trycloudflare.com/api/services/47) |
 | `48` | **Web3QuantumAnalytics_48** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #48 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/48`](https://beautifully-ideas-apollo-schedule.trycloudflare.com/api/services/48) |
 | `49` | **Web3QuantumAnalytics_49** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #49 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/49`](https://beautifully-ideas-apollo-schedule.trycloudflare.com/api/services/49) |
+| `50` | **Web3QuantumAnalytics_50** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #50 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/50`](https://beautifully-ideas-apollo-schedule.trycloudflare.com/api/services/50) |
 
 ## 🛠️ Guía de Integración y Ejemplos (cURL & Python SDK)
 
@@ -1281,6 +1282,31 @@ curl -X GET "https://beautifully-ideas-apollo-schedule.trycloudflare.com/api/ser
 import requests
 
 API_URL = "https://beautifully-ideas-apollo-schedule.trycloudflare.com/api/services/49"
+
+# 1ª Consulta de muestra (Gratis)
+res = requests.get(API_URL).json()
+print("Respuesta Muestra:", res)
+
+# Para consultas ilimitadas, envía pago USDC a 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA e incluye tx_hash:
+# res_pago = requests.get(API_URL, params={"tx_hash": "0xTU_TRANSACCION_HASH"}).json()
+```
+
+---
+### 🚀 API #50: Web3QuantumAnalytics_50
+* **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #50
+* **Endpoint:** `https://beautifully-ideas-apollo-schedule.trycloudflare.com/api/services/50`
+* **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
+
+#### Ejemplo cURL (Consulta Muestra Gratis):
+```bash
+curl -X GET "https://beautifully-ideas-apollo-schedule.trycloudflare.com/api/services/50"
+```
+
+#### Ejemplo Python SDK Client:
+```python
+import requests
+
+API_URL = "https://beautifully-ideas-apollo-schedule.trycloudflare.com/api/services/50"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()

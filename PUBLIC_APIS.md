@@ -14,67 +14,67 @@
 
 | ID | Nombre de la API | Servicio / Descripción | Modelo de Cobro | Endpoint Público |
 |---|---|---|---|---|
-| `1` | **GasTrackerPro** | Predicción y monitoreo cuantitativo de tarifas de gas EVM | Tarifa en USDC/Polygon a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/1`](https://gas-tracker-pro.trycloudflare.com/api/services/1) |
-| `2` | **DEXHighYieldPoolTracker** | Identificación en tiempo real de pools de liquidez con alta rentabilidad APY en QuickSwap/Uniswap | $0.50 USDC por informe de pool | [`/api/services/2`](https://cms-indianapolis-worcester-queensland.trycloudflare.com/api/services/2) |
-| `3` | **Web3QuantumAnalytics_29** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #29 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/3`](https://commodity-lip-country-called.trycloudflare.com/api/services/3) |
-| `4` | **Web3QuantumAnalytics_34** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #34 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/4`](https://commodity-lip-country-called.trycloudflare.com/api/services/4) |
-| `5` | **TokenomicsAI** | TokenomicsAI es una plataforma innovadora que proporciona un análisis exhaustivo de la salud financiera de las carteras de criptomonedas. Utilizando técnicas avanzadas de inteligencia artificial y análisis de datos, nuestra API evalúa la diversificación, la exposición al riesgo y la rentabilidad de las carteras, ofreciendo recomendaciones personalizadas para mejorar la gestión del patrimonio en el ecosistema Web3. | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/5`](https://commodity-lip-country-called.trycloudflare.com/api/services/5) |
-| `6` | **Web3QuantumAnalytics_43** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #43 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/6`](https://commodity-lip-country-called.trycloudflare.com/api/services/6) |
-| `7` | **Web3QuantumAnalytics_44** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #44 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/7`](https://commodity-lip-country-called.trycloudflare.com/api/services/7) |
-| `8` | **Web3QuantumAnalytics_53** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #53 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/8`](https://commodity-lip-country-called.trycloudflare.com/api/services/8) |
-| `9` | **Web3QuantumAnalytics_63** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #63 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/9`](https://commodity-lip-country-called.trycloudflare.com/api/services/9) |
-| `10` | **Web3QuantumAnalytics_67** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #67 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/10`](https://commodity-lip-country-called.trycloudflare.com/api/services/10) |
-| `11` | **Web3QuantumAnalytics_69** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #69 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/11`](https://commodity-lip-country-called.trycloudflare.com/api/services/11) |
-| `12` | **Web3QuantumAnalytics_73** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #73 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/12`](https://commodity-lip-country-called.trycloudflare.com/api/services/12) |
-| `13` | **Web3QuantumAnalytics_85** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #85 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/13`](https://commodity-lip-country-called.trycloudflare.com/api/services/13) |
-| `14` | **Web3QuantumAnalytics_89** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #89 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/14`](https://commodity-lip-country-called.trycloudflare.com/api/services/14) |
-| `15` | **Web3QuantumAnalytics_94** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #94 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/15`](https://commodity-lip-country-called.trycloudflare.com/api/services/15) |
-| `16` | **CryptoVoyage** | CryptoVoyage es una plataforma innovadora que combina la exploración de datos en tiempo real con la creación de experiencias inmersivas y personalizadas en el ecosistema Web3. Nuestra API permite a los usuarios navegar por el vasto océano de datos blockchain, descubriendo patrones ocultos y oportunidades de inversión únicas. Utilizando técnicas avanzadas de inteligencia artificial y análisis de datos, CryptoVoyage proporciona una visión profunda y única del mercado de criptomonedas, ayudando a los inversores a tomar decisiones informadas y rentables. | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/16`](https://commodity-lip-country-called.trycloudflare.com/api/services/16) |
-| `17` | **Web3QuantumAnalytics_96** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #96 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/17`](https://commodity-lip-country-called.trycloudflare.com/api/services/17) |
-| `18` | **Web3QuantumAnalytics_97** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #97 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/18`](https://commodity-lip-country-called.trycloudflare.com/api/services/18) |
-| `19` | **Web3QuantumAnalytics_98** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #98 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/19`](https://commodity-lip-country-called.trycloudflare.com/api/services/19) |
-| `20` | **Web3QuantumAnalytics_99** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #99 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/20`](https://commodity-lip-country-called.trycloudflare.com/api/services/20) |
-| `21` | **Web3QuantumAnalytics_100** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #100 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/21`](https://commodity-lip-country-called.trycloudflare.com/api/services/21) |
-| `22` | **Web3QuantumAnalytics_101** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #101 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/22`](https://commodity-lip-country-called.trycloudflare.com/api/services/22) |
-| `23` | **Web3QuantumAnalytics_106** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #106 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/23`](https://commodity-lip-country-called.trycloudflare.com/api/services/23) |
-| `24` | **Web3QuantumAnalytics_109** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #109 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/24`](https://commodity-lip-country-called.trycloudflare.com/api/services/24) |
-| `25` | **Web3QuantumAnalytics_113** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #113 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/25`](https://commodity-lip-country-called.trycloudflare.com/api/services/25) |
-| `26` | **LensSocialFiAnalytics** | Analytics cuantitativo y ranking de credibilidad en red social Lens | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/26`](https://possible-apparatus-sig-inexpensive.trycloudflare.com/api/services/26) |
-| `27` | **Web3QuantumAnalytics_95** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #95 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/27`](https://directions-loud-sage-manually.trycloudflare.com/api/services/27) |
-| `28` | **BlockchainHealthCheck** | BlockchainHealthCheck es una plataforma innovadora que proporciona un análisis exhaustivo de la salud financiera de las carteras de criptomonedas. Utilizando técnicas avanzadas de inteligencia artificial y análisis de datos, nuestra API evalúa la diversificación, la exposición al riesgo y la rentabilidad de las carteras, ofreciendo recomendaciones personalizadas para mejorar la gestión del patrimonio en el ecosistema Web3. | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/28`](https://combines-celebrity-flood-brick.trycloudflare.com/api/services/28) |
-| `29` | **NombreUnicoIneditoAPI** | Descripción concreta del servicio ineditamente creado | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/29`](https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/29) |
-| `30` | **DigitalAssetStoreAPI** | Tienda digital autogestionada de plantillas, scripts y bots Web3 con entrega automática tras pago | $2.50 USDC por descarga de activo digital | [`/api/services/30`](https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/30) |
-| `31` | **SolidityContractAuditorAPI** | Micro-SaaS de análisis de seguridad estática y detección de reentrancia en Smart Contracts | $1.50 USDC por auditoría de contrato Solidity | [`/api/services/31`](https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/31) |
-| `32` | **CEXDEXPriceDiscrepancySignal** | Señales instantáneas de desincronización de precios entre Binance y DEXes de Polygon | $0.75 USDC por señal de arbitraje | [`/api/services/32`](https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/32) |
-| `33` | **CryptoBountyHunterAPI** | Agregación y filtro en tiempo real de bounties y micro-tareas cripto (Gitcoin/Layer3) | $0.50 USDC por feed de tareas filtradas | [`/api/services/33`](https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/33) |
-| `34` | **ENSValuationEngineAPI** | Valoración automática y monitoreo cuantitativo de dominios ENS expirados con métricas de rareza | $1.00 USDC por consulta de dominio | [`/api/services/34`](https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/34) |
-| `35` | **DAOGovernanceWatcherAPI** | Alertas y resúmenes automáticos de propuestas de gobernanza en DAOs de DeFi | $0.50 USDC por informe de propuesta | [`/api/services/35`](https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/35) |
-| `36` | **FlashLoanFeeComparatorAPI** | Comparador instantáneo de comisiones y rutas de préstamos flash en Aave y Balancer | $0.75 USDC por consulta de ruta | [`/api/services/36`](https://africa-scholar-deposit-hats.trycloudflare.com/api/services/36) |
-| `37` | **NFTFloorPriceAlertEngine** | Monitor y alertador en tiempo real de precios suelo y ventas inusuales de colecciones NFT | $0.50 USDC por alerta de colección | [`/api/services/37`](https://africa-scholar-deposit-hats.trycloudflare.com/api/services/37) |
-| `38` | **TokenVestingUnlocksFeed** | Feed cuantitativo de calendarios de desbloqueo de tokens cripto (Token Unlocks Analytics) | $0.50 USDC por consulta de token | [`/api/services/38`](https://africa-scholar-deposit-hats.trycloudflare.com/api/services/38) |
-| `39` | **CrossChainBridgeRateAPI** | Comparador de tarifas, comisiones y tiempos de transferencia entre puentes cross-chain EVM | $0.30 USDC por consulta de puente | [`/api/services/39`](https://utilization-express-okay-remarks.trycloudflare.com/api/services/39) |
-| `40` | **ZkProofVerifierAPI** | Micro-SaaS de verificación de pruebas de cero conocimiento ZK-SNARKs | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/40`](https://utilization-express-okay-remarks.trycloudflare.com/api/services/40) |
-| `41` | **CryptoSentimentAI** | Análisis cuantitativo de sentimiento en tiempo real para activos cripto | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/41`](https://parish-upload-vertex-mac.trycloudflare.com/api/services/41) |
-| `42` | **ArweaveDataStoreIndexer** | Indexación y búsqueda de datos permanentes almacenados en Arweave | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/42`](https://parish-upload-vertex-mac.trycloudflare.com/api/services/42) |
+| `1` | **GasTrackerPro** | Predicción y monitoreo cuantitativo de tarifas de gas EVM | Tarifa en USDC/Polygon a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/1`](https://web3-apis-directory.loca.lt/api/services/1) |
+| `2` | **DEXHighYieldPoolTracker** | Identificación en tiempo real de pools de liquidez con alta rentabilidad APY en QuickSwap/Uniswap | $0.50 USDC por informe de pool | [`/api/services/2`](https://web3-apis-directory.loca.lt/api/services/2) |
+| `3` | **Web3QuantumAnalytics_29** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #29 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/3`](https://web3-apis-directory.loca.lt/api/services/3) |
+| `4` | **Web3QuantumAnalytics_34** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #34 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/4`](https://web3-apis-directory.loca.lt/api/services/4) |
+| `5` | **TokenomicsAI** | TokenomicsAI es una plataforma innovadora que proporciona un análisis exhaustivo de la salud financiera de las carteras de criptomonedas. Utilizando técnicas avanzadas de inteligencia artificial y análisis de datos, nuestra API evalúa la diversificación, la exposición al riesgo y la rentabilidad de las carteras, ofreciendo recomendaciones personalizadas para mejorar la gestión del patrimonio en el ecosistema Web3. | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/5`](https://web3-apis-directory.loca.lt/api/services/5) |
+| `6` | **Web3QuantumAnalytics_43** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #43 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/6`](https://web3-apis-directory.loca.lt/api/services/6) |
+| `7` | **Web3QuantumAnalytics_44** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #44 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/7`](https://web3-apis-directory.loca.lt/api/services/7) |
+| `8` | **Web3QuantumAnalytics_53** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #53 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/8`](https://web3-apis-directory.loca.lt/api/services/8) |
+| `9` | **Web3QuantumAnalytics_63** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #63 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/9`](https://web3-apis-directory.loca.lt/api/services/9) |
+| `10` | **Web3QuantumAnalytics_67** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #67 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/10`](https://web3-apis-directory.loca.lt/api/services/10) |
+| `11` | **Web3QuantumAnalytics_69** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #69 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/11`](https://web3-apis-directory.loca.lt/api/services/11) |
+| `12` | **Web3QuantumAnalytics_73** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #73 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/12`](https://web3-apis-directory.loca.lt/api/services/12) |
+| `13` | **Web3QuantumAnalytics_85** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #85 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/13`](https://web3-apis-directory.loca.lt/api/services/13) |
+| `14` | **Web3QuantumAnalytics_89** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #89 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/14`](https://web3-apis-directory.loca.lt/api/services/14) |
+| `15` | **Web3QuantumAnalytics_94** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #94 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/15`](https://web3-apis-directory.loca.lt/api/services/15) |
+| `16` | **CryptoVoyage** | CryptoVoyage es una plataforma innovadora que combina la exploración de datos en tiempo real con la creación de experiencias inmersivas y personalizadas en el ecosistema Web3. Nuestra API permite a los usuarios navegar por el vasto océano de datos blockchain, descubriendo patrones ocultos y oportunidades de inversión únicas. Utilizando técnicas avanzadas de inteligencia artificial y análisis de datos, CryptoVoyage proporciona una visión profunda y única del mercado de criptomonedas, ayudando a los inversores a tomar decisiones informadas y rentables. | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/16`](https://web3-apis-directory.loca.lt/api/services/16) |
+| `17` | **Web3QuantumAnalytics_96** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #96 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/17`](https://web3-apis-directory.loca.lt/api/services/17) |
+| `18` | **Web3QuantumAnalytics_97** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #97 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/18`](https://web3-apis-directory.loca.lt/api/services/18) |
+| `19` | **Web3QuantumAnalytics_98** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #98 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/19`](https://web3-apis-directory.loca.lt/api/services/19) |
+| `20` | **Web3QuantumAnalytics_99** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #99 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/20`](https://web3-apis-directory.loca.lt/api/services/20) |
+| `21` | **Web3QuantumAnalytics_100** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #100 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/21`](https://web3-apis-directory.loca.lt/api/services/21) |
+| `22` | **Web3QuantumAnalytics_101** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #101 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/22`](https://web3-apis-directory.loca.lt/api/services/22) |
+| `23` | **Web3QuantumAnalytics_106** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #106 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/23`](https://web3-apis-directory.loca.lt/api/services/23) |
+| `24` | **Web3QuantumAnalytics_109** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #109 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/24`](https://web3-apis-directory.loca.lt/api/services/24) |
+| `25` | **Web3QuantumAnalytics_113** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #113 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/25`](https://web3-apis-directory.loca.lt/api/services/25) |
+| `26` | **LensSocialFiAnalytics** | Analytics cuantitativo y ranking de credibilidad en red social Lens | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/26`](https://web3-apis-directory.loca.lt/api/services/26) |
+| `27` | **Web3QuantumAnalytics_95** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #95 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/27`](https://web3-apis-directory.loca.lt/api/services/27) |
+| `28` | **BlockchainHealthCheck** | BlockchainHealthCheck es una plataforma innovadora que proporciona un análisis exhaustivo de la salud financiera de las carteras de criptomonedas. Utilizando técnicas avanzadas de inteligencia artificial y análisis de datos, nuestra API evalúa la diversificación, la exposición al riesgo y la rentabilidad de las carteras, ofreciendo recomendaciones personalizadas para mejorar la gestión del patrimonio en el ecosistema Web3. | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/28`](https://web3-apis-directory.loca.lt/api/services/28) |
+| `29` | **NombreUnicoIneditoAPI** | Descripción concreta del servicio ineditamente creado | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/29`](https://web3-apis-directory.loca.lt/api/services/29) |
+| `30` | **DigitalAssetStoreAPI** | Tienda digital autogestionada de plantillas, scripts y bots Web3 con entrega automática tras pago | $2.50 USDC por descarga de activo digital | [`/api/services/30`](https://web3-apis-directory.loca.lt/api/services/30) |
+| `31` | **SolidityContractAuditorAPI** | Micro-SaaS de análisis de seguridad estática y detección de reentrancia en Smart Contracts | $1.50 USDC por auditoría de contrato Solidity | [`/api/services/31`](https://web3-apis-directory.loca.lt/api/services/31) |
+| `32` | **CEXDEXPriceDiscrepancySignal** | Señales instantáneas de desincronización de precios entre Binance y DEXes de Polygon | $0.75 USDC por señal de arbitraje | [`/api/services/32`](https://web3-apis-directory.loca.lt/api/services/32) |
+| `33` | **CryptoBountyHunterAPI** | Agregación y filtro en tiempo real de bounties y micro-tareas cripto (Gitcoin/Layer3) | $0.50 USDC por feed de tareas filtradas | [`/api/services/33`](https://web3-apis-directory.loca.lt/api/services/33) |
+| `34` | **ENSValuationEngineAPI** | Valoración automática y monitoreo cuantitativo de dominios ENS expirados con métricas de rareza | $1.00 USDC por consulta de dominio | [`/api/services/34`](https://web3-apis-directory.loca.lt/api/services/34) |
+| `35` | **DAOGovernanceWatcherAPI** | Alertas y resúmenes automáticos de propuestas de gobernanza en DAOs de DeFi | $0.50 USDC por informe de propuesta | [`/api/services/35`](https://web3-apis-directory.loca.lt/api/services/35) |
+| `36` | **FlashLoanFeeComparatorAPI** | Comparador instantáneo de comisiones y rutas de préstamos flash en Aave y Balancer | $0.75 USDC por consulta de ruta | [`/api/services/36`](https://web3-apis-directory.loca.lt/api/services/36) |
+| `37` | **NFTFloorPriceAlertEngine** | Monitor y alertador en tiempo real de precios suelo y ventas inusuales de colecciones NFT | $0.50 USDC por alerta de colección | [`/api/services/37`](https://web3-apis-directory.loca.lt/api/services/37) |
+| `38` | **TokenVestingUnlocksFeed** | Feed cuantitativo de calendarios de desbloqueo de tokens cripto (Token Unlocks Analytics) | $0.50 USDC por consulta de token | [`/api/services/38`](https://web3-apis-directory.loca.lt/api/services/38) |
+| `39` | **CrossChainBridgeRateAPI** | Comparador de tarifas, comisiones y tiempos de transferencia entre puentes cross-chain EVM | $0.30 USDC por consulta de puente | [`/api/services/39`](https://web3-apis-directory.loca.lt/api/services/39) |
+| `40` | **ZkProofVerifierAPI** | Micro-SaaS de verificación de pruebas de cero conocimiento ZK-SNARKs | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/40`](https://web3-apis-directory.loca.lt/api/services/40) |
+| `41` | **CryptoSentimentAI** | Análisis cuantitativo de sentimiento en tiempo real para activos cripto | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/41`](https://web3-apis-directory.loca.lt/api/services/41) |
+| `42` | **ArweaveDataStoreIndexer** | Indexación y búsqueda de datos permanentes almacenados en Arweave | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/42`](https://web3-apis-directory.loca.lt/api/services/42) |
 | `43` | **DeFiTreasuryAutomator** | Monitor y ejecutor autónomo de rebalanceo de tesorería para DAOs | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/43`](https://web3-apis-directory.loca.lt/api/services/43) |
 
 ## 🛠️ Guía de Integración y Ejemplos (cURL & Python SDK)
 
 ### 🚀 API #1: GasTrackerPro
 * **Descripción:** Predicción y monitoreo cuantitativo de tarifas de gas EVM
-* **Endpoint:** `https://gas-tracker-pro.trycloudflare.com/api/services/1`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/1`
 * **Modelo:** Tarifa en USDC/Polygon a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://gas-tracker-pro.trycloudflare.com/api/services/1"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/1"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://gas-tracker-pro.trycloudflare.com/api/services/1"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/1"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -87,19 +87,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #2: DEXHighYieldPoolTracker
 * **Descripción:** Identificación en tiempo real de pools de liquidez con alta rentabilidad APY en QuickSwap/Uniswap
-* **Endpoint:** `https://cms-indianapolis-worcester-queensland.trycloudflare.com/api/services/2`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/2`
 * **Modelo:** $0.50 USDC por informe de pool (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://cms-indianapolis-worcester-queensland.trycloudflare.com/api/services/2"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/2"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://cms-indianapolis-worcester-queensland.trycloudflare.com/api/services/2"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/2"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -112,19 +112,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #3: Web3QuantumAnalytics_29
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #29
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/3`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/3`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/3"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/3"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/3"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/3"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -137,19 +137,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #4: Web3QuantumAnalytics_34
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #34
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/4`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/4`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/4"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/4"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/4"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/4"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -162,19 +162,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #5: TokenomicsAI
 * **Descripción:** TokenomicsAI es una plataforma innovadora que proporciona un análisis exhaustivo de la salud financiera de las carteras de criptomonedas. Utilizando técnicas avanzadas de inteligencia artificial y análisis de datos, nuestra API evalúa la diversificación, la exposición al riesgo y la rentabilidad de las carteras, ofreciendo recomendaciones personalizadas para mejorar la gestión del patrimonio en el ecosistema Web3.
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/5`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/5`
 * **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/5"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/5"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/5"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/5"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -187,19 +187,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #6: Web3QuantumAnalytics_43
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #43
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/6`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/6`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/6"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/6"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/6"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/6"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -212,19 +212,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #7: Web3QuantumAnalytics_44
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #44
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/7`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/7`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/7"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/7"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/7"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/7"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -237,19 +237,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #8: Web3QuantumAnalytics_53
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #53
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/8`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/8`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/8"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/8"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/8"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/8"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -262,19 +262,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #9: Web3QuantumAnalytics_63
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #63
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/9`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/9`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/9"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/9"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/9"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/9"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -287,19 +287,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #10: Web3QuantumAnalytics_67
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #67
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/10`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/10`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/10"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/10"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/10"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/10"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -312,19 +312,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #11: Web3QuantumAnalytics_69
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #69
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/11`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/11`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/11"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/11"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/11"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/11"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -337,19 +337,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #12: Web3QuantumAnalytics_73
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #73
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/12`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/12`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/12"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/12"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/12"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/12"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -362,19 +362,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #13: Web3QuantumAnalytics_85
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #85
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/13`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/13`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/13"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/13"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/13"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/13"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -387,19 +387,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #14: Web3QuantumAnalytics_89
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #89
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/14`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/14`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/14"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/14"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/14"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/14"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -412,19 +412,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #15: Web3QuantumAnalytics_94
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #94
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/15`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/15`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/15"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/15"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/15"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/15"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -437,19 +437,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #16: CryptoVoyage
 * **Descripción:** CryptoVoyage es una plataforma innovadora que combina la exploración de datos en tiempo real con la creación de experiencias inmersivas y personalizadas en el ecosistema Web3. Nuestra API permite a los usuarios navegar por el vasto océano de datos blockchain, descubriendo patrones ocultos y oportunidades de inversión únicas. Utilizando técnicas avanzadas de inteligencia artificial y análisis de datos, CryptoVoyage proporciona una visión profunda y única del mercado de criptomonedas, ayudando a los inversores a tomar decisiones informadas y rentables.
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/16`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/16`
 * **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/16"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/16"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/16"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/16"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -462,19 +462,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #17: Web3QuantumAnalytics_96
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #96
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/17`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/17`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/17"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/17"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/17"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/17"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -487,19 +487,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #18: Web3QuantumAnalytics_97
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #97
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/18`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/18`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/18"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/18"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/18"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/18"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -512,19 +512,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #19: Web3QuantumAnalytics_98
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #98
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/19`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/19`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/19"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/19"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/19"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/19"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -537,19 +537,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #20: Web3QuantumAnalytics_99
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #99
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/20`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/20`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/20"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/20"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/20"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/20"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -562,19 +562,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #21: Web3QuantumAnalytics_100
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #100
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/21`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/21`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/21"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/21"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/21"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/21"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -587,19 +587,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #22: Web3QuantumAnalytics_101
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #101
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/22`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/22`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/22"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/22"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/22"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/22"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -612,19 +612,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #23: Web3QuantumAnalytics_106
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #106
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/23`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/23`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/23"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/23"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/23"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/23"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -637,19 +637,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #24: Web3QuantumAnalytics_109
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #109
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/24`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/24`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/24"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/24"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/24"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/24"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -662,19 +662,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #25: Web3QuantumAnalytics_113
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #113
-* **Endpoint:** `https://commodity-lip-country-called.trycloudflare.com/api/services/25`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/25`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://commodity-lip-country-called.trycloudflare.com/api/services/25"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/25"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://commodity-lip-country-called.trycloudflare.com/api/services/25"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/25"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -687,19 +687,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #26: LensSocialFiAnalytics
 * **Descripción:** Analytics cuantitativo y ranking de credibilidad en red social Lens
-* **Endpoint:** `https://possible-apparatus-sig-inexpensive.trycloudflare.com/api/services/26`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/26`
 * **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://possible-apparatus-sig-inexpensive.trycloudflare.com/api/services/26"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/26"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://possible-apparatus-sig-inexpensive.trycloudflare.com/api/services/26"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/26"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -712,19 +712,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #27: Web3QuantumAnalytics_95
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #95
-* **Endpoint:** `https://directions-loud-sage-manually.trycloudflare.com/api/services/27`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/27`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://directions-loud-sage-manually.trycloudflare.com/api/services/27"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/27"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://directions-loud-sage-manually.trycloudflare.com/api/services/27"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/27"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -737,19 +737,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #28: BlockchainHealthCheck
 * **Descripción:** BlockchainHealthCheck es una plataforma innovadora que proporciona un análisis exhaustivo de la salud financiera de las carteras de criptomonedas. Utilizando técnicas avanzadas de inteligencia artificial y análisis de datos, nuestra API evalúa la diversificación, la exposición al riesgo y la rentabilidad de las carteras, ofreciendo recomendaciones personalizadas para mejorar la gestión del patrimonio en el ecosistema Web3.
-* **Endpoint:** `https://combines-celebrity-flood-brick.trycloudflare.com/api/services/28`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/28`
 * **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://combines-celebrity-flood-brick.trycloudflare.com/api/services/28"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/28"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://combines-celebrity-flood-brick.trycloudflare.com/api/services/28"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/28"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -762,19 +762,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #29: NombreUnicoIneditoAPI
 * **Descripción:** Descripción concreta del servicio ineditamente creado
-* **Endpoint:** `https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/29`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/29`
 * **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/29"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/29"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/29"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/29"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -787,19 +787,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #30: DigitalAssetStoreAPI
 * **Descripción:** Tienda digital autogestionada de plantillas, scripts y bots Web3 con entrega automática tras pago
-* **Endpoint:** `https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/30`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/30`
 * **Modelo:** $2.50 USDC por descarga de activo digital (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/30"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/30"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/30"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/30"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -812,19 +812,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #31: SolidityContractAuditorAPI
 * **Descripción:** Micro-SaaS de análisis de seguridad estática y detección de reentrancia en Smart Contracts
-* **Endpoint:** `https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/31`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/31`
 * **Modelo:** $1.50 USDC por auditoría de contrato Solidity (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/31"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/31"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/31"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/31"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -837,19 +837,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #32: CEXDEXPriceDiscrepancySignal
 * **Descripción:** Señales instantáneas de desincronización de precios entre Binance y DEXes de Polygon
-* **Endpoint:** `https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/32`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/32`
 * **Modelo:** $0.75 USDC por señal de arbitraje (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/32"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/32"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/32"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/32"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -862,19 +862,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #33: CryptoBountyHunterAPI
 * **Descripción:** Agregación y filtro en tiempo real de bounties y micro-tareas cripto (Gitcoin/Layer3)
-* **Endpoint:** `https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/33`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/33`
 * **Modelo:** $0.50 USDC por feed de tareas filtradas (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/33"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/33"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/33"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/33"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -887,19 +887,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #34: ENSValuationEngineAPI
 * **Descripción:** Valoración automática y monitoreo cuantitativo de dominios ENS expirados con métricas de rareza
-* **Endpoint:** `https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/34`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/34`
 * **Modelo:** $1.00 USDC por consulta de dominio (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/34"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/34"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/34"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/34"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -912,19 +912,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #35: DAOGovernanceWatcherAPI
 * **Descripción:** Alertas y resúmenes automáticos de propuestas de gobernanza en DAOs de DeFi
-* **Endpoint:** `https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/35`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/35`
 * **Modelo:** $0.50 USDC por informe de propuesta (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/35"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/35"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://fought-citysearch-beyond-yellow.trycloudflare.com/api/services/35"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/35"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -937,19 +937,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #36: FlashLoanFeeComparatorAPI
 * **Descripción:** Comparador instantáneo de comisiones y rutas de préstamos flash en Aave y Balancer
-* **Endpoint:** `https://africa-scholar-deposit-hats.trycloudflare.com/api/services/36`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/36`
 * **Modelo:** $0.75 USDC por consulta de ruta (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://africa-scholar-deposit-hats.trycloudflare.com/api/services/36"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/36"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://africa-scholar-deposit-hats.trycloudflare.com/api/services/36"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/36"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -962,19 +962,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #37: NFTFloorPriceAlertEngine
 * **Descripción:** Monitor y alertador en tiempo real de precios suelo y ventas inusuales de colecciones NFT
-* **Endpoint:** `https://africa-scholar-deposit-hats.trycloudflare.com/api/services/37`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/37`
 * **Modelo:** $0.50 USDC por alerta de colección (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://africa-scholar-deposit-hats.trycloudflare.com/api/services/37"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/37"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://africa-scholar-deposit-hats.trycloudflare.com/api/services/37"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/37"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -987,19 +987,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #38: TokenVestingUnlocksFeed
 * **Descripción:** Feed cuantitativo de calendarios de desbloqueo de tokens cripto (Token Unlocks Analytics)
-* **Endpoint:** `https://africa-scholar-deposit-hats.trycloudflare.com/api/services/38`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/38`
 * **Modelo:** $0.50 USDC por consulta de token (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://africa-scholar-deposit-hats.trycloudflare.com/api/services/38"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/38"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://africa-scholar-deposit-hats.trycloudflare.com/api/services/38"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/38"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -1012,19 +1012,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #39: CrossChainBridgeRateAPI
 * **Descripción:** Comparador de tarifas, comisiones y tiempos de transferencia entre puentes cross-chain EVM
-* **Endpoint:** `https://utilization-express-okay-remarks.trycloudflare.com/api/services/39`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/39`
 * **Modelo:** $0.30 USDC por consulta de puente (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://utilization-express-okay-remarks.trycloudflare.com/api/services/39"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/39"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://utilization-express-okay-remarks.trycloudflare.com/api/services/39"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/39"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -1037,19 +1037,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #40: ZkProofVerifierAPI
 * **Descripción:** Micro-SaaS de verificación de pruebas de cero conocimiento ZK-SNARKs
-* **Endpoint:** `https://utilization-express-okay-remarks.trycloudflare.com/api/services/40`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/40`
 * **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://utilization-express-okay-remarks.trycloudflare.com/api/services/40"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/40"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://utilization-express-okay-remarks.trycloudflare.com/api/services/40"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/40"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -1062,19 +1062,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #41: CryptoSentimentAI
 * **Descripción:** Análisis cuantitativo de sentimiento en tiempo real para activos cripto
-* **Endpoint:** `https://parish-upload-vertex-mac.trycloudflare.com/api/services/41`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/41`
 * **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://parish-upload-vertex-mac.trycloudflare.com/api/services/41"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/41"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://parish-upload-vertex-mac.trycloudflare.com/api/services/41"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/41"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -1087,19 +1087,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #42: ArweaveDataStoreIndexer
 * **Descripción:** Indexación y búsqueda de datos permanentes almacenados en Arweave
-* **Endpoint:** `https://parish-upload-vertex-mac.trycloudflare.com/api/services/42`
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/42`
 * **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://parish-upload-vertex-mac.trycloudflare.com/api/services/42"
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/42"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://parish-upload-vertex-mac.trycloudflare.com/api/services/42"
+API_URL = "https://web3-apis-directory.loca.lt/api/services/42"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()

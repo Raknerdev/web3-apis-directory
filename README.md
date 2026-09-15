@@ -10,7 +10,7 @@
 
 ---
 
-## 📦 Catálogo de APIs Activas en Producción (45 Módulos)
+## 📦 Catálogo de APIs Activas en Producción (46 Módulos)
 
 | ID | Nombre de la API | Servicio / Descripción | Modelo de Cobro | Endpoint Público |
 |---|---|---|---|---|
@@ -59,6 +59,7 @@
 | `43` | **DeFiTreasuryAutomator** | Monitor y ejecutor autónomo de rebalanceo de tesorería para DAOs | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/43`](https://web3-apis-directory.loca.lt/api/services/43) |
 | `44` | **Web3QuantumAnalytics_44** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #44 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/44`](https://web3-apis-directory.loca.lt/api/services/44) |
 | `45` | **Web3QuantumAnalytics_45** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #45 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/45`](https://web3-apis-directory.loca.lt/api/services/45) |
+| `46` | **Web3QuantumAnalytics_46** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #46 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/46`](https://web3-apis-directory.loca.lt/api/services/46) |
 
 ## 🛠️ Guía de Integración y Ejemplos (cURL & Python SDK)
 
@@ -1177,6 +1178,31 @@ curl -X GET "https://web3-apis-directory.loca.lt/api/services/45"
 import requests
 
 API_URL = "https://web3-apis-directory.loca.lt/api/services/45"
+
+# 1ª Consulta de muestra (Gratis)
+res = requests.get(API_URL).json()
+print("Respuesta Muestra:", res)
+
+# Para consultas ilimitadas, envía pago USDC a 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA e incluye tx_hash:
+# res_pago = requests.get(API_URL, params={"tx_hash": "0xTU_TRANSACCION_HASH"}).json()
+```
+
+---
+### 🚀 API #46: Web3QuantumAnalytics_46
+* **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #46
+* **Endpoint:** `https://web3-apis-directory.loca.lt/api/services/46`
+* **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
+
+#### Ejemplo cURL (Consulta Muestra Gratis):
+```bash
+curl -X GET "https://web3-apis-directory.loca.lt/api/services/46"
+```
+
+#### Ejemplo Python SDK Client:
+```python
+import requests
+
+API_URL = "https://web3-apis-directory.loca.lt/api/services/46"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()

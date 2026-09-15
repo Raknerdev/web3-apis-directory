@@ -10,7 +10,7 @@
 
 ---
 
-## 📦 Catálogo de APIs Activas en Producción (39 Módulos)
+## 📦 Catálogo de APIs Activas en Producción (40 Módulos)
 
 | ID | Nombre de la API | Servicio / Descripción | Modelo de Cobro | Endpoint Público |
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 | `37` | **NFTFloorPriceAlertEngine** | Monitor y alertador en tiempo real de precios suelo y ventas inusuales de colecciones NFT | $0.50 USDC por alerta de colección | [`/api/services/37`](https://africa-scholar-deposit-hats.trycloudflare.com/api/services/37) |
 | `38` | **TokenVestingUnlocksFeed** | Feed cuantitativo de calendarios de desbloqueo de tokens cripto (Token Unlocks Analytics) | $0.50 USDC por consulta de token | [`/api/services/38`](https://africa-scholar-deposit-hats.trycloudflare.com/api/services/38) |
 | `39` | **CrossChainBridgeRateAPI** | Comparador de tarifas, comisiones y tiempos de transferencia entre puentes cross-chain EVM | $0.30 USDC por consulta de puente | [`/api/services/39`](https://utilization-express-okay-remarks.trycloudflare.com/api/services/39) |
+| `40` | **ZkProofVerifierAPI** | Micro-SaaS de verificación de pruebas de cero conocimiento ZK-SNARKs | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/40`](https://utilization-express-okay-remarks.trycloudflare.com/api/services/40) |
 
 ## 🛠️ Guía de Integración y Ejemplos (cURL & Python SDK)
 
@@ -1021,6 +1022,31 @@ curl -X GET "https://utilization-express-okay-remarks.trycloudflare.com/api/serv
 import requests
 
 API_URL = "https://utilization-express-okay-remarks.trycloudflare.com/api/services/39"
+
+# 1ª Consulta de muestra (Gratis)
+res = requests.get(API_URL).json()
+print("Respuesta Muestra:", res)
+
+# Para consultas ilimitadas, envía pago USDC a 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA e incluye tx_hash:
+# res_pago = requests.get(API_URL, params={"tx_hash": "0xTU_TRANSACCION_HASH"}).json()
+```
+
+---
+### 🚀 API #40: ZkProofVerifierAPI
+* **Descripción:** Micro-SaaS de verificación de pruebas de cero conocimiento ZK-SNARKs
+* **Endpoint:** `https://utilization-express-okay-remarks.trycloudflare.com/api/services/40`
+* **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
+
+#### Ejemplo cURL (Consulta Muestra Gratis):
+```bash
+curl -X GET "https://utilization-express-okay-remarks.trycloudflare.com/api/services/40"
+```
+
+#### Ejemplo Python SDK Client:
+```python
+import requests
+
+API_URL = "https://utilization-express-okay-remarks.trycloudflare.com/api/services/40"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()

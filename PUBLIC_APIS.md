@@ -8,7 +8,7 @@ Directorio oficial en tiempo real de Micro-servicios Web3 y APIs Cripto desplega
 
 ---
 
-## 📋 Catálogo de APIs Activas (28 Servicios Operativos)
+## 📋 Catálogo de APIs Activas (29 Servicios Operativos)
 
 | ID | Proyecto | Servicio | Modelo de Cobro | Endpoint Directo |
 |:---|:---|:---|:---|:---|
@@ -40,6 +40,7 @@ Directorio oficial en tiempo real de Micro-servicios Web3 y APIs Cripto desplega
 | `26` | **PythOraclePriceFeedAPI** | API de consumo de datos de oráculos de precios de baja latencia en Pyth Network | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/26`](https://api.rdevapp.com/api/services/26) |
 | `27` | **AaveV3BorrowRateAlerts** | Alertas instantáneas de variaciones en tasas de interés de préstamos en Aave V3 | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/27`](https://api.rdevapp.com/api/services/27) |
 | `28` | **StarknetZKProofWatcher** | Monitoreo en tiempo real del estado de verificación de pruebas ZK en Starknet | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/28`](https://api.rdevapp.com/api/services/28) |
+| `29` | **OptimismGasOptimizerAPI** | Servicio especializado de monitoreo y análisis de GasOptimizer en la red Optimism | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/29`](https://api.rdevapp.com/api/services/29) |
 
 ## 🛠️ Guía de Integración y Ejemplos (cURL & Python SDK)
 
@@ -733,6 +734,31 @@ curl -X GET "https://api.rdevapp.com/api/services/28"
 import requests
 
 API_URL = "https://api.rdevapp.com/api/services/28"
+
+# 1ª Consulta de muestra (Gratis)
+res = requests.get(API_URL).json()
+print("Respuesta Muestra:", res)
+
+# Para consultas ilimitadas, envía pago USDC a 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA e incluye tx_hash:
+# res_pago = requests.get(API_URL, params={"tx_hash": "0xTU_TRANSACCION_HASH"}).json()
+```
+
+---
+### 🚀 API #29: OptimismGasOptimizerAPI
+* **Descripción:** Servicio especializado de monitoreo y análisis de GasOptimizer en la red Optimism
+* **Endpoint:** `https://api.rdevapp.com/api/services/29`
+* **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
+
+#### Ejemplo cURL (Consulta Muestra Gratis):
+```bash
+curl -X GET "https://api.rdevapp.com/api/services/29"
+```
+
+#### Ejemplo Python SDK Client:
+```python
+import requests
+
+API_URL = "https://api.rdevapp.com/api/services/29"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()

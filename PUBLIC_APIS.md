@@ -8,7 +8,7 @@ Directorio oficial en tiempo real de Micro-servicios Web3 y APIs Cripto desplega
 
 ---
 
-## 📋 Catálogo de APIs Activas (31 Servicios Operativos)
+## 📋 Catálogo de APIs Activas (32 Servicios Operativos)
 
 | ID | Proyecto | Servicio | Modelo de Cobro | Endpoint Directo |
 |:---|:---|:---|:---|:---|
@@ -43,6 +43,7 @@ Directorio oficial en tiempo real de Micro-servicios Web3 y APIs Cripto desplega
 | `29` | **OptimismGasOptimizerAPI** | Servicio especializado de monitoreo y análisis de GasOptimizer en la red Optimism | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/29`](https://api.rdevapp.com/api/services/29) |
 | `30` | **BaseContractValidatorAPI** | Servicio especializado de monitoreo y análisis de ContractValidator en la red Base | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/30`](https://api.rdevapp.com/api/services/30) |
 | `31` | **PolygonTokenTransferTrackerAPI** | Servicio especializado de monitoreo y análisis de TokenTransferTracker en la red Polygon | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/31`](https://api.rdevapp.com/api/services/31) |
+| `32` | **zkSyncGasOptimizerAPI** | Servicio especializado de monitoreo y análisis de GasOptimizer en la red zkSync | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/32`](https://api.rdevapp.com/api/services/32) |
 
 ## 🛠️ Guía de Integración y Ejemplos (cURL & Python SDK)
 
@@ -811,6 +812,31 @@ curl -X GET "https://api.rdevapp.com/api/services/31"
 import requests
 
 API_URL = "https://api.rdevapp.com/api/services/31"
+
+# 1ª Consulta de muestra (Gratis)
+res = requests.get(API_URL).json()
+print("Respuesta Muestra:", res)
+
+# Para consultas ilimitadas, envía pago USDC a 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA e incluye tx_hash:
+# res_pago = requests.get(API_URL, params={"tx_hash": "0xTU_TRANSACCION_HASH"}).json()
+```
+
+---
+### 🚀 API #32: zkSyncGasOptimizerAPI
+* **Descripción:** Servicio especializado de monitoreo y análisis de GasOptimizer en la red zkSync
+* **Endpoint:** `https://api.rdevapp.com/api/services/32`
+* **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
+
+#### Ejemplo cURL (Consulta Muestra Gratis):
+```bash
+curl -X GET "https://api.rdevapp.com/api/services/32"
+```
+
+#### Ejemplo Python SDK Client:
+```python
+import requests
+
+API_URL = "https://api.rdevapp.com/api/services/32"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()

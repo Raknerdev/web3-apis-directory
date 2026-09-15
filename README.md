@@ -8,7 +8,7 @@ Directorio oficial en tiempo real de Micro-servicios Web3 y APIs Cripto desplega
 
 ---
 
-## 📋 Catálogo de APIs Activas (23 Servicios Operativos)
+## 📋 Catálogo de APIs Activas (24 Servicios Operativos)
 
 | ID | Proyecto | Servicio | Modelo de Cobro | Endpoint Directo |
 |:---|:---|:---|:---|:---|
@@ -35,6 +35,7 @@ Directorio oficial en tiempo real de Micro-servicios Web3 y APIs Cripto desplega
 | `21` | **IPFSHealthCheckerAPI** | Verificación instantánea de accesibilidad y replicación de CIDs en red IPFS | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/21`](https://api.rdevapp.com/api/services/21) |
 | `22` | **FarcasterFramePaymentGateway** | Pasarela de cobro micro-usdc integrada en Farcaster Frames | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/22`](https://api.rdevapp.com/api/services/22) |
 | `23` | **UniswapV3LiquidityRangeWatcher** | Alertas de desincronización de liquidez en rango para Uniswap V3 | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/23`](https://api.rdevapp.com/api/services/23) |
+| `24` | **ChainlinkAutomationMonitorAPI** | Monitoreo en tiempo real de ejecuciones Upkeeps en Chainlink Automation | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/24`](https://api.rdevapp.com/api/services/24) |
 
 ## 🛠️ Guía de Integración y Ejemplos (cURL & Python SDK)
 
@@ -603,6 +604,31 @@ curl -X GET "https://api.rdevapp.com/api/services/23"
 import requests
 
 API_URL = "https://api.rdevapp.com/api/services/23"
+
+# 1ª Consulta de muestra (Gratis)
+res = requests.get(API_URL).json()
+print("Respuesta Muestra:", res)
+
+# Para consultas ilimitadas, envía pago USDC a 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA e incluye tx_hash:
+# res_pago = requests.get(API_URL, params={"tx_hash": "0xTU_TRANSACCION_HASH"}).json()
+```
+
+---
+### 🚀 API #24: ChainlinkAutomationMonitorAPI
+* **Descripción:** Monitoreo en tiempo real de ejecuciones Upkeeps en Chainlink Automation
+* **Endpoint:** `https://api.rdevapp.com/api/services/24`
+* **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
+
+#### Ejemplo cURL (Consulta Muestra Gratis):
+```bash
+curl -X GET "https://api.rdevapp.com/api/services/24"
+```
+
+#### Ejemplo Python SDK Client:
+```python
+import requests
+
+API_URL = "https://api.rdevapp.com/api/services/24"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()

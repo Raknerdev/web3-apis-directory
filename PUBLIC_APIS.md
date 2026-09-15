@@ -8,7 +8,7 @@ Directorio oficial en tiempo real de Micro-servicios Web3 y APIs Cripto desplega
 
 ---
 
-## 📋 Catálogo de APIs Activas (78 Servicios Operativos)
+## 📋 Catálogo de APIs Activas (79 Servicios Operativos)
 
 | ID | Proyecto | Servicio | Modelo de Cobro | Endpoint Directo |
 |:---|:---|:---|:---|:---|
@@ -90,6 +90,7 @@ Directorio oficial en tiempo real de Micro-servicios Web3 y APIs Cripto desplega
 | `76` | **Web3QuantumAnalytics_76** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #76 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/76`](https://api.rdevapp.com/api/services/76) |
 | `77` | **Web3QuantumAnalytics_77** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #77 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/77`](https://api.rdevapp.com/api/services/77) |
 | `78` | **Web3QuantumAnalytics_78** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #78 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/78`](https://api.rdevapp.com/api/services/78) |
+| `79` | **Web3QuantumAnalytics_79** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #79 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/79`](https://api.rdevapp.com/api/services/79) |
 
 ## 🛠️ Guía de Integración y Ejemplos (cURL & Python SDK)
 
@@ -2033,6 +2034,31 @@ curl -X GET "https://api.rdevapp.com/api/services/78"
 import requests
 
 API_URL = "https://api.rdevapp.com/api/services/78"
+
+# 1ª Consulta de muestra (Gratis)
+res = requests.get(API_URL).json()
+print("Respuesta Muestra:", res)
+
+# Para consultas ilimitadas, envía pago USDC a 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA e incluye tx_hash:
+# res_pago = requests.get(API_URL, params={"tx_hash": "0xTU_TRANSACCION_HASH"}).json()
+```
+
+---
+### 🚀 API #79: Web3QuantumAnalytics_79
+* **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #79
+* **Endpoint:** `https://api.rdevapp.com/api/services/79`
+* **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
+
+#### Ejemplo cURL (Consulta Muestra Gratis):
+```bash
+curl -X GET "https://api.rdevapp.com/api/services/79"
+```
+
+#### Ejemplo Python SDK Client:
+```python
+import requests
+
+API_URL = "https://api.rdevapp.com/api/services/79"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()

@@ -8,7 +8,7 @@ Directorio oficial en tiempo real de Micro-servicios Web3 y APIs Cripto desplega
 
 ---
 
-## 📋 Catálogo de APIs Activas (36 Servicios Operativos)
+## 📋 Catálogo de APIs Activas (37 Servicios Operativos)
 
 | ID | Proyecto | Servicio | Modelo de Cobro | Endpoint Directo |
 |:---|:---|:---|:---|:---|
@@ -48,6 +48,7 @@ Directorio oficial en tiempo real de Micro-servicios Web3 y APIs Cripto desplega
 | `34` | **ArbitrumMempoolAlertsAPI** | Servicio especializado de monitoreo y análisis de MempoolAlerts en la red Arbitrum | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/34`](https://api.rdevapp.com/api/services/34) |
 | `35` | **OptimismMempoolAlertsAPI** | Servicio especializado de monitoreo y análisis de MempoolAlerts en la red Optimism | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/35`](https://api.rdevapp.com/api/services/35) |
 | `36` | **BaseMempoolAlertsAPI** | Servicio especializado de monitoreo y análisis de MempoolAlerts en la red Base | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/36`](https://api.rdevapp.com/api/services/36) |
+| `37` | **ArbitrumContractValidatorAPI** | Servicio especializado de monitoreo y análisis de ContractValidator en la red Arbitrum | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/37`](https://api.rdevapp.com/api/services/37) |
 
 ## 🛠️ Guía de Integración y Ejemplos (cURL & Python SDK)
 
@@ -941,6 +942,31 @@ curl -X GET "https://api.rdevapp.com/api/services/36"
 import requests
 
 API_URL = "https://api.rdevapp.com/api/services/36"
+
+# 1ª Consulta de muestra (Gratis)
+res = requests.get(API_URL).json()
+print("Respuesta Muestra:", res)
+
+# Para consultas ilimitadas, envía pago USDC a 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA e incluye tx_hash:
+# res_pago = requests.get(API_URL, params={"tx_hash": "0xTU_TRANSACCION_HASH"}).json()
+```
+
+---
+### 🚀 API #37: ArbitrumContractValidatorAPI
+* **Descripción:** Servicio especializado de monitoreo y análisis de ContractValidator en la red Arbitrum
+* **Endpoint:** `https://api.rdevapp.com/api/services/37`
+* **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
+
+#### Ejemplo cURL (Consulta Muestra Gratis):
+```bash
+curl -X GET "https://api.rdevapp.com/api/services/37"
+```
+
+#### Ejemplo Python SDK Client:
+```python
+import requests
+
+API_URL = "https://api.rdevapp.com/api/services/37"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()

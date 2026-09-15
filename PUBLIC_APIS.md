@@ -1,89 +1,87 @@
 # ⚡ Automaton Web3 Engine - Public API Directory
 
-[![Status](https://img.shields.io/badge/Status-Online_24%2F7-brightgreen.svg)]()
-[![Network](https://img.shields.io/badge/Network-Polygon_PoS-purple.svg)]()
-[![Paywall](https://img.shields.io/badge/Paywall-HTTP_402_USDC-blue.svg)]()
-[![Freemium](https://img.shields.io/badge/Freemium-1_Free_Sample_Request-orange.svg)]()
+Directorio oficial en tiempo real de Micro-servicios Web3 y APIs Cripto desplegadas autónomamente.
 
-> **Plataforma Autónoma de Micro-Servicios Web3 y APIs Paywall HTTP 402.**
-> Wallet Oficial de Cobros (Polygon/EVM): `0x5f7Ac253A6A58519bE076be386bDbe825280c9FA`
+* **Wallet Receptor de Pagos:** `0x5f7Ac253A6A58519bE076be386bDbe825280c9FA`
+* **Dominio Base Oficial:** `https://api.rdevapp.com`
+* **Suscripción/Paywall:** HTTP 402 (1ª Consulta de muestra GRATIS por IP/Wallet)
 
 ---
 
-## 📦 Catálogo de APIs Activas en Producción (52 Módulos)
+## 📋 Catálogo de APIs Activas (52 Servicios Operativos)
 
-| ID | Nombre de la API | Servicio / Descripción | Modelo de Cobro | Endpoint Público |
-|---|---|---|---|---|
-| `1` | **GasTrackerPro** | Predicción y monitoreo cuantitativo de tarifas de gas EVM | Tarifa en USDC/Polygon a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/1`](https://rdevapp.com/api/services/1) |
-| `2` | **DEXHighYieldPoolTracker** | Identificación en tiempo real de pools de liquidez con alta rentabilidad APY en QuickSwap/Uniswap | $0.50 USDC por informe de pool | [`/api/services/2`](https://rdevapp.com/api/services/2) |
-| `3` | **Web3QuantumAnalytics_29** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #29 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/3`](https://rdevapp.com/api/services/3) |
-| `4` | **Web3QuantumAnalytics_34** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #34 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/4`](https://rdevapp.com/api/services/4) |
-| `5` | **TokenomicsAI** | TokenomicsAI es una plataforma innovadora que proporciona un análisis exhaustivo de la salud financiera de las carteras de criptomonedas. Utilizando técnicas avanzadas de inteligencia artificial y análisis de datos, nuestra API evalúa la diversificación, la exposición al riesgo y la rentabilidad de las carteras, ofreciendo recomendaciones personalizadas para mejorar la gestión del patrimonio en el ecosistema Web3. | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/5`](https://rdevapp.com/api/services/5) |
-| `6` | **Web3QuantumAnalytics_43** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #43 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/6`](https://rdevapp.com/api/services/6) |
-| `7` | **Web3QuantumAnalytics_44** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #44 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/7`](https://rdevapp.com/api/services/7) |
-| `8` | **Web3QuantumAnalytics_53** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #53 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/8`](https://rdevapp.com/api/services/8) |
-| `9` | **Web3QuantumAnalytics_63** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #63 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/9`](https://rdevapp.com/api/services/9) |
-| `10` | **Web3QuantumAnalytics_67** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #67 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/10`](https://rdevapp.com/api/services/10) |
-| `11` | **Web3QuantumAnalytics_69** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #69 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/11`](https://rdevapp.com/api/services/11) |
-| `12` | **Web3QuantumAnalytics_73** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #73 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/12`](https://rdevapp.com/api/services/12) |
-| `13` | **Web3QuantumAnalytics_85** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #85 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/13`](https://rdevapp.com/api/services/13) |
-| `14` | **Web3QuantumAnalytics_89** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #89 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/14`](https://rdevapp.com/api/services/14) |
-| `15` | **Web3QuantumAnalytics_94** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #94 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/15`](https://rdevapp.com/api/services/15) |
-| `16` | **CryptoVoyage** | CryptoVoyage es una plataforma innovadora que combina la exploración de datos en tiempo real con la creación de experiencias inmersivas y personalizadas en el ecosistema Web3. Nuestra API permite a los usuarios navegar por el vasto océano de datos blockchain, descubriendo patrones ocultos y oportunidades de inversión únicas. Utilizando técnicas avanzadas de inteligencia artificial y análisis de datos, CryptoVoyage proporciona una visión profunda y única del mercado de criptomonedas, ayudando a los inversores a tomar decisiones informadas y rentables. | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/16`](https://rdevapp.com/api/services/16) |
-| `17` | **Web3QuantumAnalytics_96** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #96 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/17`](https://rdevapp.com/api/services/17) |
-| `18` | **Web3QuantumAnalytics_97** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #97 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/18`](https://rdevapp.com/api/services/18) |
-| `19` | **Web3QuantumAnalytics_98** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #98 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/19`](https://rdevapp.com/api/services/19) |
-| `20` | **Web3QuantumAnalytics_99** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #99 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/20`](https://rdevapp.com/api/services/20) |
-| `21` | **Web3QuantumAnalytics_100** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #100 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/21`](https://rdevapp.com/api/services/21) |
-| `22` | **Web3QuantumAnalytics_101** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #101 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/22`](https://rdevapp.com/api/services/22) |
-| `23` | **Web3QuantumAnalytics_106** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #106 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/23`](https://rdevapp.com/api/services/23) |
-| `24` | **Web3QuantumAnalytics_109** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #109 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/24`](https://rdevapp.com/api/services/24) |
-| `25` | **Web3QuantumAnalytics_113** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #113 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/25`](https://rdevapp.com/api/services/25) |
-| `26` | **LensSocialFiAnalytics** | Analytics cuantitativo y ranking de credibilidad en red social Lens | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/26`](https://rdevapp.com/api/services/26) |
-| `27` | **Web3QuantumAnalytics_95** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #95 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/27`](https://rdevapp.com/api/services/27) |
-| `28` | **BlockchainHealthCheck** | BlockchainHealthCheck es una plataforma innovadora que proporciona un análisis exhaustivo de la salud financiera de las carteras de criptomonedas. Utilizando técnicas avanzadas de inteligencia artificial y análisis de datos, nuestra API evalúa la diversificación, la exposición al riesgo y la rentabilidad de las carteras, ofreciendo recomendaciones personalizadas para mejorar la gestión del patrimonio en el ecosistema Web3. | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/28`](https://rdevapp.com/api/services/28) |
-| `29` | **NombreUnicoIneditoAPI** | Descripción concreta del servicio ineditamente creado | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/29`](https://rdevapp.com/api/services/29) |
-| `30` | **DigitalAssetStoreAPI** | Tienda digital autogestionada de plantillas, scripts y bots Web3 con entrega automática tras pago | $2.50 USDC por descarga de activo digital | [`/api/services/30`](https://rdevapp.com/api/services/30) |
-| `31` | **SolidityContractAuditorAPI** | Micro-SaaS de análisis de seguridad estática y detección de reentrancia en Smart Contracts | $1.50 USDC por auditoría de contrato Solidity | [`/api/services/31`](https://rdevapp.com/api/services/31) |
-| `32` | **CEXDEXPriceDiscrepancySignal** | Señales instantáneas de desincronización de precios entre Binance y DEXes de Polygon | $0.75 USDC por señal de arbitraje | [`/api/services/32`](https://rdevapp.com/api/services/32) |
-| `33` | **CryptoBountyHunterAPI** | Agregación y filtro en tiempo real de bounties y micro-tareas cripto (Gitcoin/Layer3) | $0.50 USDC por feed de tareas filtradas | [`/api/services/33`](https://rdevapp.com/api/services/33) |
-| `34` | **ENSValuationEngineAPI** | Valoración automática y monitoreo cuantitativo de dominios ENS expirados con métricas de rareza | $1.00 USDC por consulta de dominio | [`/api/services/34`](https://rdevapp.com/api/services/34) |
-| `35` | **DAOGovernanceWatcherAPI** | Alertas y resúmenes automáticos de propuestas de gobernanza en DAOs de DeFi | $0.50 USDC por informe de propuesta | [`/api/services/35`](https://rdevapp.com/api/services/35) |
-| `36` | **FlashLoanFeeComparatorAPI** | Comparador instantáneo de comisiones y rutas de préstamos flash en Aave y Balancer | $0.75 USDC por consulta de ruta | [`/api/services/36`](https://rdevapp.com/api/services/36) |
-| `37` | **NFTFloorPriceAlertEngine** | Monitor y alertador en tiempo real de precios suelo y ventas inusuales de colecciones NFT | $0.50 USDC por alerta de colección | [`/api/services/37`](https://rdevapp.com/api/services/37) |
-| `38` | **TokenVestingUnlocksFeed** | Feed cuantitativo de calendarios de desbloqueo de tokens cripto (Token Unlocks Analytics) | $0.50 USDC por consulta de token | [`/api/services/38`](https://rdevapp.com/api/services/38) |
-| `39` | **CrossChainBridgeRateAPI** | Comparador de tarifas, comisiones y tiempos de transferencia entre puentes cross-chain EVM | $0.30 USDC por consulta de puente | [`/api/services/39`](https://rdevapp.com/api/services/39) |
-| `40` | **ZkProofVerifierAPI** | Micro-SaaS de verificación de pruebas de cero conocimiento ZK-SNARKs | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/40`](https://rdevapp.com/api/services/40) |
-| `41` | **CryptoSentimentAI** | Análisis cuantitativo de sentimiento en tiempo real para activos cripto | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/41`](https://rdevapp.com/api/services/41) |
-| `42` | **ArweaveDataStoreIndexer** | Indexación y búsqueda de datos permanentes almacenados en Arweave | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/42`](https://rdevapp.com/api/services/42) |
-| `43` | **DeFiTreasuryAutomator** | Monitor y ejecutor autónomo de rebalanceo de tesorería para DAOs | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/43`](https://rdevapp.com/api/services/43) |
-| `44` | **Web3QuantumAnalytics_44** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #44 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/44`](https://rdevapp.com/api/services/44) |
-| `45` | **Web3QuantumAnalytics_45** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #45 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/45`](https://rdevapp.com/api/services/45) |
-| `46` | **Web3QuantumAnalytics_46** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #46 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/46`](https://rdevapp.com/api/services/46) |
-| `47` | **Web3QuantumAnalytics_47** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #47 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/47`](https://rdevapp.com/api/services/47) |
-| `48` | **Web3QuantumAnalytics_48** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #48 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/48`](https://rdevapp.com/api/services/48) |
-| `49` | **Web3QuantumAnalytics_49** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #49 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/49`](https://rdevapp.com/api/services/49) |
-| `50` | **Web3QuantumAnalytics_50** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #50 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/50`](https://rdevapp.com/api/services/50) |
-| `51` | **Web3QuantumAnalytics_51** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #51 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/51`](https://rdevapp.com/api/services/51) |
-| `52` | **Web3QuantumAnalytics_52** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #52 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/52`](https://rdevapp.com/api/services/52) |
+| ID | Proyecto | Servicio | Modelo de Cobro | Endpoint Directo |
+|:---|:---|:---|:---|:---|
+| `1` | **GasTrackerPro** | Predicción y monitoreo cuantitativo de tarifas de gas EVM | Tarifa en USDC/Polygon a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/1`](https://api.rdevapp.com/api/services/1) |
+| `2` | **DEXHighYieldPoolTracker** | Identificación en tiempo real de pools de liquidez con alta rentabilidad APY en QuickSwap/Uniswap | $0.50 USDC por informe de pool | [`/api/services/2`](https://api.rdevapp.com/api/services/2) |
+| `3` | **Web3QuantumAnalytics_29** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #29 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/3`](https://api.rdevapp.com/api/services/3) |
+| `4` | **Web3QuantumAnalytics_34** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #34 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/4`](https://api.rdevapp.com/api/services/4) |
+| `5` | **TokenomicsAI** | TokenomicsAI es una plataforma innovadora que proporciona un análisis exhaustivo de la salud financiera de las carteras de criptomonedas. Utilizando técnicas avanzadas de inteligencia artificial y análisis de datos, nuestra API evalúa la diversificación, la exposición al riesgo y la rentabilidad de las carteras, ofreciendo recomendaciones personalizadas para mejorar la gestión del patrimonio en el ecosistema Web3. | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/5`](https://api.rdevapp.com/api/services/5) |
+| `6` | **Web3QuantumAnalytics_43** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #43 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/6`](https://api.rdevapp.com/api/services/6) |
+| `7` | **Web3QuantumAnalytics_44** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #44 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/7`](https://api.rdevapp.com/api/services/7) |
+| `8` | **Web3QuantumAnalytics_53** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #53 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/8`](https://api.rdevapp.com/api/services/8) |
+| `9` | **Web3QuantumAnalytics_63** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #63 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/9`](https://api.rdevapp.com/api/services/9) |
+| `10` | **Web3QuantumAnalytics_67** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #67 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/10`](https://api.rdevapp.com/api/services/10) |
+| `11` | **Web3QuantumAnalytics_69** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #69 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/11`](https://api.rdevapp.com/api/services/11) |
+| `12` | **Web3QuantumAnalytics_73** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #73 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/12`](https://api.rdevapp.com/api/services/12) |
+| `13` | **Web3QuantumAnalytics_85** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #85 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/13`](https://api.rdevapp.com/api/services/13) |
+| `14` | **Web3QuantumAnalytics_89** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #89 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/14`](https://api.rdevapp.com/api/services/14) |
+| `15` | **Web3QuantumAnalytics_94** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #94 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/15`](https://api.rdevapp.com/api/services/15) |
+| `16` | **CryptoVoyage** | CryptoVoyage es una plataforma innovadora que combina la exploración de datos en tiempo real con la creación de experiencias inmersivas y personalizadas en el ecosistema Web3. Nuestra API permite a los usuarios navegar por el vasto océano de datos blockchain, descubriendo patrones ocultos y oportunidades de inversión únicas. Utilizando técnicas avanzadas de inteligencia artificial y análisis de datos, CryptoVoyage proporciona una visión profunda y única del mercado de criptomonedas, ayudando a los inversores a tomar decisiones informadas y rentables. | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/16`](https://api.rdevapp.com/api/services/16) |
+| `17` | **Web3QuantumAnalytics_96** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #96 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/17`](https://api.rdevapp.com/api/services/17) |
+| `18` | **Web3QuantumAnalytics_97** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #97 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/18`](https://api.rdevapp.com/api/services/18) |
+| `19` | **Web3QuantumAnalytics_98** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #98 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/19`](https://api.rdevapp.com/api/services/19) |
+| `20` | **Web3QuantumAnalytics_99** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #99 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/20`](https://api.rdevapp.com/api/services/20) |
+| `21` | **Web3QuantumAnalytics_100** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #100 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/21`](https://api.rdevapp.com/api/services/21) |
+| `22` | **Web3QuantumAnalytics_101** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #101 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/22`](https://api.rdevapp.com/api/services/22) |
+| `23` | **Web3QuantumAnalytics_106** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #106 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/23`](https://api.rdevapp.com/api/services/23) |
+| `24` | **Web3QuantumAnalytics_109** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #109 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/24`](https://api.rdevapp.com/api/services/24) |
+| `25` | **Web3QuantumAnalytics_113** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #113 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/25`](https://api.rdevapp.com/api/services/25) |
+| `26` | **LensSocialFiAnalytics** | Analytics cuantitativo y ranking de credibilidad en red social Lens | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/26`](https://api.rdevapp.com/api/services/26) |
+| `27` | **Web3QuantumAnalytics_95** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #95 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/27`](https://api.rdevapp.com/api/services/27) |
+| `28` | **BlockchainHealthCheck** | BlockchainHealthCheck es una plataforma innovadora que proporciona un análisis exhaustivo de la salud financiera de las carteras de criptomonedas. Utilizando técnicas avanzadas de inteligencia artificial y análisis de datos, nuestra API evalúa la diversificación, la exposición al riesgo y la rentabilidad de las carteras, ofreciendo recomendaciones personalizadas para mejorar la gestión del patrimonio en el ecosistema Web3. | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/28`](https://api.rdevapp.com/api/services/28) |
+| `29` | **NombreUnicoIneditoAPI** | Descripción concreta del servicio ineditamente creado | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/29`](https://api.rdevapp.com/api/services/29) |
+| `30` | **DigitalAssetStoreAPI** | Tienda digital autogestionada de plantillas, scripts y bots Web3 con entrega automática tras pago | $2.50 USDC por descarga de activo digital | [`/api/services/30`](https://api.rdevapp.com/api/services/30) |
+| `31` | **SolidityContractAuditorAPI** | Micro-SaaS de análisis de seguridad estática y detección de reentrancia en Smart Contracts | $1.50 USDC por auditoría de contrato Solidity | [`/api/services/31`](https://api.rdevapp.com/api/services/31) |
+| `32` | **CEXDEXPriceDiscrepancySignal** | Señales instantáneas de desincronización de precios entre Binance y DEXes de Polygon | $0.75 USDC por señal de arbitraje | [`/api/services/32`](https://api.rdevapp.com/api/services/32) |
+| `33` | **CryptoBountyHunterAPI** | Agregación y filtro en tiempo real de bounties y micro-tareas cripto (Gitcoin/Layer3) | $0.50 USDC por feed de tareas filtradas | [`/api/services/33`](https://api.rdevapp.com/api/services/33) |
+| `34` | **ENSValuationEngineAPI** | Valoración automática y monitoreo cuantitativo de dominios ENS expirados con métricas de rareza | $1.00 USDC por consulta de dominio | [`/api/services/34`](https://api.rdevapp.com/api/services/34) |
+| `35` | **DAOGovernanceWatcherAPI** | Alertas y resúmenes automáticos de propuestas de gobernanza en DAOs de DeFi | $0.50 USDC por informe de propuesta | [`/api/services/35`](https://api.rdevapp.com/api/services/35) |
+| `36` | **FlashLoanFeeComparatorAPI** | Comparador instantáneo de comisiones y rutas de préstamos flash en Aave y Balancer | $0.75 USDC por consulta de ruta | [`/api/services/36`](https://api.rdevapp.com/api/services/36) |
+| `37` | **NFTFloorPriceAlertEngine** | Monitor y alertador en tiempo real de precios suelo y ventas inusuales de colecciones NFT | $0.50 USDC por alerta de colección | [`/api/services/37`](https://api.rdevapp.com/api/services/37) |
+| `38` | **TokenVestingUnlocksFeed** | Feed cuantitativo de calendarios de desbloqueo de tokens cripto (Token Unlocks Analytics) | $0.50 USDC por consulta de token | [`/api/services/38`](https://api.rdevapp.com/api/services/38) |
+| `39` | **CrossChainBridgeRateAPI** | Comparador de tarifas, comisiones y tiempos de transferencia entre puentes cross-chain EVM | $0.30 USDC por consulta de puente | [`/api/services/39`](https://api.rdevapp.com/api/services/39) |
+| `40` | **ZkProofVerifierAPI** | Micro-SaaS de verificación de pruebas de cero conocimiento ZK-SNARKs | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/40`](https://api.rdevapp.com/api/services/40) |
+| `41` | **CryptoSentimentAI** | Análisis cuantitativo de sentimiento en tiempo real para activos cripto | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/41`](https://api.rdevapp.com/api/services/41) |
+| `42` | **ArweaveDataStoreIndexer** | Indexación y búsqueda de datos permanentes almacenados en Arweave | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/42`](https://api.rdevapp.com/api/services/42) |
+| `43` | **DeFiTreasuryAutomator** | Monitor y ejecutor autónomo de rebalanceo de tesorería para DAOs | $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/43`](https://api.rdevapp.com/api/services/43) |
+| `44` | **Web3QuantumAnalytics_44** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #44 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/44`](https://api.rdevapp.com/api/services/44) |
+| `45` | **Web3QuantumAnalytics_45** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #45 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/45`](https://api.rdevapp.com/api/services/45) |
+| `46` | **Web3QuantumAnalytics_46** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #46 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/46`](https://api.rdevapp.com/api/services/46) |
+| `47` | **Web3QuantumAnalytics_47** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #47 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/47`](https://api.rdevapp.com/api/services/47) |
+| `48` | **Web3QuantumAnalytics_48** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #48 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/48`](https://api.rdevapp.com/api/services/48) |
+| `49` | **Web3QuantumAnalytics_49** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #49 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/49`](https://api.rdevapp.com/api/services/49) |
+| `50` | **Web3QuantumAnalytics_50** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #50 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/50`](https://api.rdevapp.com/api/services/50) |
+| `51` | **Web3QuantumAnalytics_51** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #51 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/51`](https://api.rdevapp.com/api/services/51) |
+| `52` | **Web3QuantumAnalytics_52** | Análisis cuantitativo avanzado de métricas on-chain en tiempo real #52 | $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA | [`/api/services/52`](https://api.rdevapp.com/api/services/52) |
 
 ## 🛠️ Guía de Integración y Ejemplos (cURL & Python SDK)
 
 ### 🚀 API #1: GasTrackerPro
 * **Descripción:** Predicción y monitoreo cuantitativo de tarifas de gas EVM
-* **Endpoint:** `https://rdevapp.com/api/services/1`
+* **Endpoint:** `https://api.rdevapp.com/api/services/1`
 * **Modelo:** Tarifa en USDC/Polygon a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/1"
+curl -X GET "https://api.rdevapp.com/api/services/1"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/1"
+API_URL = "https://api.rdevapp.com/api/services/1"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -96,19 +94,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #2: DEXHighYieldPoolTracker
 * **Descripción:** Identificación en tiempo real de pools de liquidez con alta rentabilidad APY en QuickSwap/Uniswap
-* **Endpoint:** `https://rdevapp.com/api/services/2`
+* **Endpoint:** `https://api.rdevapp.com/api/services/2`
 * **Modelo:** $0.50 USDC por informe de pool (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/2"
+curl -X GET "https://api.rdevapp.com/api/services/2"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/2"
+API_URL = "https://api.rdevapp.com/api/services/2"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -121,19 +119,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #3: Web3QuantumAnalytics_29
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #29
-* **Endpoint:** `https://rdevapp.com/api/services/3`
+* **Endpoint:** `https://api.rdevapp.com/api/services/3`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/3"
+curl -X GET "https://api.rdevapp.com/api/services/3"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/3"
+API_URL = "https://api.rdevapp.com/api/services/3"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -146,19 +144,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #4: Web3QuantumAnalytics_34
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #34
-* **Endpoint:** `https://rdevapp.com/api/services/4`
+* **Endpoint:** `https://api.rdevapp.com/api/services/4`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/4"
+curl -X GET "https://api.rdevapp.com/api/services/4"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/4"
+API_URL = "https://api.rdevapp.com/api/services/4"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -171,19 +169,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #5: TokenomicsAI
 * **Descripción:** TokenomicsAI es una plataforma innovadora que proporciona un análisis exhaustivo de la salud financiera de las carteras de criptomonedas. Utilizando técnicas avanzadas de inteligencia artificial y análisis de datos, nuestra API evalúa la diversificación, la exposición al riesgo y la rentabilidad de las carteras, ofreciendo recomendaciones personalizadas para mejorar la gestión del patrimonio en el ecosistema Web3.
-* **Endpoint:** `https://rdevapp.com/api/services/5`
+* **Endpoint:** `https://api.rdevapp.com/api/services/5`
 * **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/5"
+curl -X GET "https://api.rdevapp.com/api/services/5"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/5"
+API_URL = "https://api.rdevapp.com/api/services/5"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -196,19 +194,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #6: Web3QuantumAnalytics_43
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #43
-* **Endpoint:** `https://rdevapp.com/api/services/6`
+* **Endpoint:** `https://api.rdevapp.com/api/services/6`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/6"
+curl -X GET "https://api.rdevapp.com/api/services/6"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/6"
+API_URL = "https://api.rdevapp.com/api/services/6"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -221,19 +219,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #7: Web3QuantumAnalytics_44
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #44
-* **Endpoint:** `https://rdevapp.com/api/services/7`
+* **Endpoint:** `https://api.rdevapp.com/api/services/7`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/7"
+curl -X GET "https://api.rdevapp.com/api/services/7"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/7"
+API_URL = "https://api.rdevapp.com/api/services/7"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -246,19 +244,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #8: Web3QuantumAnalytics_53
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #53
-* **Endpoint:** `https://rdevapp.com/api/services/8`
+* **Endpoint:** `https://api.rdevapp.com/api/services/8`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/8"
+curl -X GET "https://api.rdevapp.com/api/services/8"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/8"
+API_URL = "https://api.rdevapp.com/api/services/8"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -271,19 +269,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #9: Web3QuantumAnalytics_63
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #63
-* **Endpoint:** `https://rdevapp.com/api/services/9`
+* **Endpoint:** `https://api.rdevapp.com/api/services/9`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/9"
+curl -X GET "https://api.rdevapp.com/api/services/9"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/9"
+API_URL = "https://api.rdevapp.com/api/services/9"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -296,19 +294,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #10: Web3QuantumAnalytics_67
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #67
-* **Endpoint:** `https://rdevapp.com/api/services/10`
+* **Endpoint:** `https://api.rdevapp.com/api/services/10`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/10"
+curl -X GET "https://api.rdevapp.com/api/services/10"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/10"
+API_URL = "https://api.rdevapp.com/api/services/10"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -321,19 +319,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #11: Web3QuantumAnalytics_69
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #69
-* **Endpoint:** `https://rdevapp.com/api/services/11`
+* **Endpoint:** `https://api.rdevapp.com/api/services/11`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/11"
+curl -X GET "https://api.rdevapp.com/api/services/11"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/11"
+API_URL = "https://api.rdevapp.com/api/services/11"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -346,19 +344,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #12: Web3QuantumAnalytics_73
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #73
-* **Endpoint:** `https://rdevapp.com/api/services/12`
+* **Endpoint:** `https://api.rdevapp.com/api/services/12`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/12"
+curl -X GET "https://api.rdevapp.com/api/services/12"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/12"
+API_URL = "https://api.rdevapp.com/api/services/12"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -371,19 +369,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #13: Web3QuantumAnalytics_85
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #85
-* **Endpoint:** `https://rdevapp.com/api/services/13`
+* **Endpoint:** `https://api.rdevapp.com/api/services/13`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/13"
+curl -X GET "https://api.rdevapp.com/api/services/13"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/13"
+API_URL = "https://api.rdevapp.com/api/services/13"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -396,19 +394,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #14: Web3QuantumAnalytics_89
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #89
-* **Endpoint:** `https://rdevapp.com/api/services/14`
+* **Endpoint:** `https://api.rdevapp.com/api/services/14`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/14"
+curl -X GET "https://api.rdevapp.com/api/services/14"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/14"
+API_URL = "https://api.rdevapp.com/api/services/14"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -421,19 +419,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #15: Web3QuantumAnalytics_94
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #94
-* **Endpoint:** `https://rdevapp.com/api/services/15`
+* **Endpoint:** `https://api.rdevapp.com/api/services/15`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/15"
+curl -X GET "https://api.rdevapp.com/api/services/15"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/15"
+API_URL = "https://api.rdevapp.com/api/services/15"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -446,19 +444,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #16: CryptoVoyage
 * **Descripción:** CryptoVoyage es una plataforma innovadora que combina la exploración de datos en tiempo real con la creación de experiencias inmersivas y personalizadas en el ecosistema Web3. Nuestra API permite a los usuarios navegar por el vasto océano de datos blockchain, descubriendo patrones ocultos y oportunidades de inversión únicas. Utilizando técnicas avanzadas de inteligencia artificial y análisis de datos, CryptoVoyage proporciona una visión profunda y única del mercado de criptomonedas, ayudando a los inversores a tomar decisiones informadas y rentables.
-* **Endpoint:** `https://rdevapp.com/api/services/16`
+* **Endpoint:** `https://api.rdevapp.com/api/services/16`
 * **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/16"
+curl -X GET "https://api.rdevapp.com/api/services/16"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/16"
+API_URL = "https://api.rdevapp.com/api/services/16"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -471,19 +469,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #17: Web3QuantumAnalytics_96
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #96
-* **Endpoint:** `https://rdevapp.com/api/services/17`
+* **Endpoint:** `https://api.rdevapp.com/api/services/17`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/17"
+curl -X GET "https://api.rdevapp.com/api/services/17"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/17"
+API_URL = "https://api.rdevapp.com/api/services/17"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -496,19 +494,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #18: Web3QuantumAnalytics_97
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #97
-* **Endpoint:** `https://rdevapp.com/api/services/18`
+* **Endpoint:** `https://api.rdevapp.com/api/services/18`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/18"
+curl -X GET "https://api.rdevapp.com/api/services/18"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/18"
+API_URL = "https://api.rdevapp.com/api/services/18"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -521,19 +519,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #19: Web3QuantumAnalytics_98
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #98
-* **Endpoint:** `https://rdevapp.com/api/services/19`
+* **Endpoint:** `https://api.rdevapp.com/api/services/19`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/19"
+curl -X GET "https://api.rdevapp.com/api/services/19"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/19"
+API_URL = "https://api.rdevapp.com/api/services/19"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -546,19 +544,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #20: Web3QuantumAnalytics_99
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #99
-* **Endpoint:** `https://rdevapp.com/api/services/20`
+* **Endpoint:** `https://api.rdevapp.com/api/services/20`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/20"
+curl -X GET "https://api.rdevapp.com/api/services/20"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/20"
+API_URL = "https://api.rdevapp.com/api/services/20"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -571,19 +569,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #21: Web3QuantumAnalytics_100
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #100
-* **Endpoint:** `https://rdevapp.com/api/services/21`
+* **Endpoint:** `https://api.rdevapp.com/api/services/21`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/21"
+curl -X GET "https://api.rdevapp.com/api/services/21"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/21"
+API_URL = "https://api.rdevapp.com/api/services/21"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -596,19 +594,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #22: Web3QuantumAnalytics_101
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #101
-* **Endpoint:** `https://rdevapp.com/api/services/22`
+* **Endpoint:** `https://api.rdevapp.com/api/services/22`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/22"
+curl -X GET "https://api.rdevapp.com/api/services/22"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/22"
+API_URL = "https://api.rdevapp.com/api/services/22"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -621,19 +619,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #23: Web3QuantumAnalytics_106
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #106
-* **Endpoint:** `https://rdevapp.com/api/services/23`
+* **Endpoint:** `https://api.rdevapp.com/api/services/23`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/23"
+curl -X GET "https://api.rdevapp.com/api/services/23"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/23"
+API_URL = "https://api.rdevapp.com/api/services/23"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -646,19 +644,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #24: Web3QuantumAnalytics_109
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #109
-* **Endpoint:** `https://rdevapp.com/api/services/24`
+* **Endpoint:** `https://api.rdevapp.com/api/services/24`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/24"
+curl -X GET "https://api.rdevapp.com/api/services/24"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/24"
+API_URL = "https://api.rdevapp.com/api/services/24"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -671,19 +669,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #25: Web3QuantumAnalytics_113
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #113
-* **Endpoint:** `https://rdevapp.com/api/services/25`
+* **Endpoint:** `https://api.rdevapp.com/api/services/25`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/25"
+curl -X GET "https://api.rdevapp.com/api/services/25"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/25"
+API_URL = "https://api.rdevapp.com/api/services/25"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -696,19 +694,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #26: LensSocialFiAnalytics
 * **Descripción:** Analytics cuantitativo y ranking de credibilidad en red social Lens
-* **Endpoint:** `https://rdevapp.com/api/services/26`
+* **Endpoint:** `https://api.rdevapp.com/api/services/26`
 * **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/26"
+curl -X GET "https://api.rdevapp.com/api/services/26"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/26"
+API_URL = "https://api.rdevapp.com/api/services/26"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -721,19 +719,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #27: Web3QuantumAnalytics_95
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #95
-* **Endpoint:** `https://rdevapp.com/api/services/27`
+* **Endpoint:** `https://api.rdevapp.com/api/services/27`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/27"
+curl -X GET "https://api.rdevapp.com/api/services/27"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/27"
+API_URL = "https://api.rdevapp.com/api/services/27"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -746,19 +744,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #28: BlockchainHealthCheck
 * **Descripción:** BlockchainHealthCheck es una plataforma innovadora que proporciona un análisis exhaustivo de la salud financiera de las carteras de criptomonedas. Utilizando técnicas avanzadas de inteligencia artificial y análisis de datos, nuestra API evalúa la diversificación, la exposición al riesgo y la rentabilidad de las carteras, ofreciendo recomendaciones personalizadas para mejorar la gestión del patrimonio en el ecosistema Web3.
-* **Endpoint:** `https://rdevapp.com/api/services/28`
+* **Endpoint:** `https://api.rdevapp.com/api/services/28`
 * **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/28"
+curl -X GET "https://api.rdevapp.com/api/services/28"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/28"
+API_URL = "https://api.rdevapp.com/api/services/28"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -771,19 +769,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #29: NombreUnicoIneditoAPI
 * **Descripción:** Descripción concreta del servicio ineditamente creado
-* **Endpoint:** `https://rdevapp.com/api/services/29`
+* **Endpoint:** `https://api.rdevapp.com/api/services/29`
 * **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/29"
+curl -X GET "https://api.rdevapp.com/api/services/29"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/29"
+API_URL = "https://api.rdevapp.com/api/services/29"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -796,19 +794,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #30: DigitalAssetStoreAPI
 * **Descripción:** Tienda digital autogestionada de plantillas, scripts y bots Web3 con entrega automática tras pago
-* **Endpoint:** `https://rdevapp.com/api/services/30`
+* **Endpoint:** `https://api.rdevapp.com/api/services/30`
 * **Modelo:** $2.50 USDC por descarga de activo digital (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/30"
+curl -X GET "https://api.rdevapp.com/api/services/30"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/30"
+API_URL = "https://api.rdevapp.com/api/services/30"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -821,19 +819,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #31: SolidityContractAuditorAPI
 * **Descripción:** Micro-SaaS de análisis de seguridad estática y detección de reentrancia en Smart Contracts
-* **Endpoint:** `https://rdevapp.com/api/services/31`
+* **Endpoint:** `https://api.rdevapp.com/api/services/31`
 * **Modelo:** $1.50 USDC por auditoría de contrato Solidity (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/31"
+curl -X GET "https://api.rdevapp.com/api/services/31"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/31"
+API_URL = "https://api.rdevapp.com/api/services/31"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -846,19 +844,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #32: CEXDEXPriceDiscrepancySignal
 * **Descripción:** Señales instantáneas de desincronización de precios entre Binance y DEXes de Polygon
-* **Endpoint:** `https://rdevapp.com/api/services/32`
+* **Endpoint:** `https://api.rdevapp.com/api/services/32`
 * **Modelo:** $0.75 USDC por señal de arbitraje (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/32"
+curl -X GET "https://api.rdevapp.com/api/services/32"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/32"
+API_URL = "https://api.rdevapp.com/api/services/32"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -871,19 +869,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #33: CryptoBountyHunterAPI
 * **Descripción:** Agregación y filtro en tiempo real de bounties y micro-tareas cripto (Gitcoin/Layer3)
-* **Endpoint:** `https://rdevapp.com/api/services/33`
+* **Endpoint:** `https://api.rdevapp.com/api/services/33`
 * **Modelo:** $0.50 USDC por feed de tareas filtradas (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/33"
+curl -X GET "https://api.rdevapp.com/api/services/33"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/33"
+API_URL = "https://api.rdevapp.com/api/services/33"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -896,19 +894,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #34: ENSValuationEngineAPI
 * **Descripción:** Valoración automática y monitoreo cuantitativo de dominios ENS expirados con métricas de rareza
-* **Endpoint:** `https://rdevapp.com/api/services/34`
+* **Endpoint:** `https://api.rdevapp.com/api/services/34`
 * **Modelo:** $1.00 USDC por consulta de dominio (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/34"
+curl -X GET "https://api.rdevapp.com/api/services/34"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/34"
+API_URL = "https://api.rdevapp.com/api/services/34"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -921,19 +919,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #35: DAOGovernanceWatcherAPI
 * **Descripción:** Alertas y resúmenes automáticos de propuestas de gobernanza en DAOs de DeFi
-* **Endpoint:** `https://rdevapp.com/api/services/35`
+* **Endpoint:** `https://api.rdevapp.com/api/services/35`
 * **Modelo:** $0.50 USDC por informe de propuesta (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/35"
+curl -X GET "https://api.rdevapp.com/api/services/35"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/35"
+API_URL = "https://api.rdevapp.com/api/services/35"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -946,19 +944,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #36: FlashLoanFeeComparatorAPI
 * **Descripción:** Comparador instantáneo de comisiones y rutas de préstamos flash en Aave y Balancer
-* **Endpoint:** `https://rdevapp.com/api/services/36`
+* **Endpoint:** `https://api.rdevapp.com/api/services/36`
 * **Modelo:** $0.75 USDC por consulta de ruta (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/36"
+curl -X GET "https://api.rdevapp.com/api/services/36"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/36"
+API_URL = "https://api.rdevapp.com/api/services/36"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -971,19 +969,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #37: NFTFloorPriceAlertEngine
 * **Descripción:** Monitor y alertador en tiempo real de precios suelo y ventas inusuales de colecciones NFT
-* **Endpoint:** `https://rdevapp.com/api/services/37`
+* **Endpoint:** `https://api.rdevapp.com/api/services/37`
 * **Modelo:** $0.50 USDC por alerta de colección (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/37"
+curl -X GET "https://api.rdevapp.com/api/services/37"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/37"
+API_URL = "https://api.rdevapp.com/api/services/37"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -996,19 +994,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #38: TokenVestingUnlocksFeed
 * **Descripción:** Feed cuantitativo de calendarios de desbloqueo de tokens cripto (Token Unlocks Analytics)
-* **Endpoint:** `https://rdevapp.com/api/services/38`
+* **Endpoint:** `https://api.rdevapp.com/api/services/38`
 * **Modelo:** $0.50 USDC por consulta de token (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/38"
+curl -X GET "https://api.rdevapp.com/api/services/38"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/38"
+API_URL = "https://api.rdevapp.com/api/services/38"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -1021,19 +1019,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #39: CrossChainBridgeRateAPI
 * **Descripción:** Comparador de tarifas, comisiones y tiempos de transferencia entre puentes cross-chain EVM
-* **Endpoint:** `https://rdevapp.com/api/services/39`
+* **Endpoint:** `https://api.rdevapp.com/api/services/39`
 * **Modelo:** $0.30 USDC por consulta de puente (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/39"
+curl -X GET "https://api.rdevapp.com/api/services/39"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/39"
+API_URL = "https://api.rdevapp.com/api/services/39"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -1046,19 +1044,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #40: ZkProofVerifierAPI
 * **Descripción:** Micro-SaaS de verificación de pruebas de cero conocimiento ZK-SNARKs
-* **Endpoint:** `https://rdevapp.com/api/services/40`
+* **Endpoint:** `https://api.rdevapp.com/api/services/40`
 * **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/40"
+curl -X GET "https://api.rdevapp.com/api/services/40"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/40"
+API_URL = "https://api.rdevapp.com/api/services/40"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -1071,19 +1069,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #41: CryptoSentimentAI
 * **Descripción:** Análisis cuantitativo de sentimiento en tiempo real para activos cripto
-* **Endpoint:** `https://rdevapp.com/api/services/41`
+* **Endpoint:** `https://api.rdevapp.com/api/services/41`
 * **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/41"
+curl -X GET "https://api.rdevapp.com/api/services/41"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/41"
+API_URL = "https://api.rdevapp.com/api/services/41"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -1096,19 +1094,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #42: ArweaveDataStoreIndexer
 * **Descripción:** Indexación y búsqueda de datos permanentes almacenados en Arweave
-* **Endpoint:** `https://rdevapp.com/api/services/42`
+* **Endpoint:** `https://api.rdevapp.com/api/services/42`
 * **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/42"
+curl -X GET "https://api.rdevapp.com/api/services/42"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/42"
+API_URL = "https://api.rdevapp.com/api/services/42"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -1121,19 +1119,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #43: DeFiTreasuryAutomator
 * **Descripción:** Monitor y ejecutor autónomo de rebalanceo de tesorería para DAOs
-* **Endpoint:** `https://rdevapp.com/api/services/43`
+* **Endpoint:** `https://api.rdevapp.com/api/services/43`
 * **Modelo:** $0.50 USDC por consulta a wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/43"
+curl -X GET "https://api.rdevapp.com/api/services/43"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/43"
+API_URL = "https://api.rdevapp.com/api/services/43"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -1146,19 +1144,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #44: Web3QuantumAnalytics_44
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #44
-* **Endpoint:** `https://rdevapp.com/api/services/44`
+* **Endpoint:** `https://api.rdevapp.com/api/services/44`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/44"
+curl -X GET "https://api.rdevapp.com/api/services/44"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/44"
+API_URL = "https://api.rdevapp.com/api/services/44"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -1171,19 +1169,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #45: Web3QuantumAnalytics_45
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #45
-* **Endpoint:** `https://rdevapp.com/api/services/45`
+* **Endpoint:** `https://api.rdevapp.com/api/services/45`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/45"
+curl -X GET "https://api.rdevapp.com/api/services/45"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/45"
+API_URL = "https://api.rdevapp.com/api/services/45"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -1196,19 +1194,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #46: Web3QuantumAnalytics_46
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #46
-* **Endpoint:** `https://rdevapp.com/api/services/46`
+* **Endpoint:** `https://api.rdevapp.com/api/services/46`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/46"
+curl -X GET "https://api.rdevapp.com/api/services/46"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/46"
+API_URL = "https://api.rdevapp.com/api/services/46"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -1221,19 +1219,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #47: Web3QuantumAnalytics_47
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #47
-* **Endpoint:** `https://rdevapp.com/api/services/47`
+* **Endpoint:** `https://api.rdevapp.com/api/services/47`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/47"
+curl -X GET "https://api.rdevapp.com/api/services/47"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/47"
+API_URL = "https://api.rdevapp.com/api/services/47"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -1246,19 +1244,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #48: Web3QuantumAnalytics_48
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #48
-* **Endpoint:** `https://rdevapp.com/api/services/48`
+* **Endpoint:** `https://api.rdevapp.com/api/services/48`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/48"
+curl -X GET "https://api.rdevapp.com/api/services/48"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/48"
+API_URL = "https://api.rdevapp.com/api/services/48"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -1271,19 +1269,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #49: Web3QuantumAnalytics_49
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #49
-* **Endpoint:** `https://rdevapp.com/api/services/49`
+* **Endpoint:** `https://api.rdevapp.com/api/services/49`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/49"
+curl -X GET "https://api.rdevapp.com/api/services/49"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/49"
+API_URL = "https://api.rdevapp.com/api/services/49"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -1296,19 +1294,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #50: Web3QuantumAnalytics_50
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #50
-* **Endpoint:** `https://rdevapp.com/api/services/50`
+* **Endpoint:** `https://api.rdevapp.com/api/services/50`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/50"
+curl -X GET "https://api.rdevapp.com/api/services/50"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/50"
+API_URL = "https://api.rdevapp.com/api/services/50"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -1321,19 +1319,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #51: Web3QuantumAnalytics_51
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #51
-* **Endpoint:** `https://rdevapp.com/api/services/51`
+* **Endpoint:** `https://api.rdevapp.com/api/services/51`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/51"
+curl -X GET "https://api.rdevapp.com/api/services/51"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/51"
+API_URL = "https://api.rdevapp.com/api/services/51"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
@@ -1346,19 +1344,19 @@ print("Respuesta Muestra:", res)
 ---
 ### 🚀 API #52: Web3QuantumAnalytics_52
 * **Descripción:** Análisis cuantitativo avanzado de métricas on-chain en tiempo real #52
-* **Endpoint:** `https://rdevapp.com/api/services/52`
+* **Endpoint:** `https://api.rdevapp.com/api/services/52`
 * **Modelo:** $0.50 USDC a la wallet 0x5f7Ac253A6A58519bE076be386bDbe825280c9FA (1ª Consulta GRATIS de muestra por IP/Wallet)
 
 #### Ejemplo cURL (Consulta Muestra Gratis):
 ```bash
-curl -X GET "https://rdevapp.com/api/services/52"
+curl -X GET "https://api.rdevapp.com/api/services/52"
 ```
 
 #### Ejemplo Python SDK Client:
 ```python
 import requests
 
-API_URL = "https://rdevapp.com/api/services/52"
+API_URL = "https://api.rdevapp.com/api/services/52"
 
 # 1ª Consulta de muestra (Gratis)
 res = requests.get(API_URL).json()
